@@ -1,0 +1,42 @@
+
+Generation: 0
+Best Individual:
+Subpopulation 0:
+Evaluated: false
+Fitness: Standardized=0.0 Adjusted=1.0 Hits=0
+Tree 0:
+ room
+
+Best Individual of Run:
+Subpopulation 0:
+Evaluated: false
+Fitness: Standardized=0.0 Adjusted=1.0 Hits=0
+Tree 0:
+ room
+
+
+Best Individual's Timetable
+=====================
+Assigned Exams :21
+Timetable
+E0,7,0
+E1,7,2
+E2,0,4
+E3,5,4
+E4,2,0
+E5,1,4
+E6,3,2
+E7,3,2
+E8,3,2
+E9,4,2
+E10,4,2
+E11,5,3
+E12,0,2
+E13,4,2
+E14,7,2
+E15,6,2
+E16,3,2
+E17,6,2
+E18,4,2
+E19,4,2
+E20,3,2

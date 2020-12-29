@@ -1,0 +1,46 @@
+# Copyright 2006 by Sean Luke and George Mason University
+# Licensed under the Academic Free License version 3.0
+# See the file "LICENSE" for more information
+
+parent.0 = koza.params
+
+# Stolen from koza/params -- overwriting just
+# a little for readability
+# You need to create at least one function set, 
+# called "f0", which your first tree will use.  
+
+gp.fs.size = 1
+gp.fs.0.name = f0
+gp.fs.0.size =6
+
+### The functions, carefully ordered :-)  (See below)
+
+gp.fs.0.func.0 = GE_HH.vehicleRoutingProblem.ecjFunctions.Customer
+gp.fs.0.func.0.nc = nc0
+gp.fs.0.func.1 = GE_HH.vehicleRoutingProblem.ecjFunctions.Move
+gp.fs.0.func.1.nc = nc3
+gp.fs.0.func.2 = GE_HH.vehicleRoutingProblem.ecjFunctions.Route
+gp.fs.0.func.2.nc = nc0
+gp.fs.0.func.3 = GE_HH.vehicleRoutingProblem.ecjFunctions.Shuffle
+gp.fs.0.func.3.nc = nc2
+gp.fs.0.func.4 = GE_HH.vehicleRoutingProblem.ecjFunctions.Swap
+gp.fs.0.func.4.nc = nc2
+gp.fs.0.func.5 = GE_HH.vehicleRoutingProblem.ecjFunctions.Ephemeral
+gp.fs.0.func.5.nc = nc0
+
+#
+# We specify our problem here
+#
+
+
+eval.problem = GE_HH.vehicleRoutingProblem.ProblemDomain.VrpProblem
+eval.problem.vrp-filename = vrpnc1.txt
+# Because our GPData is completely empty, we can just use
+# GPData directly
+eval.problem.data = GE_HH.vehicleRoutingProblem.ProblemDomain.VrpData
+
+eval.problem.file = geOutput.trl
+
+# output statistics to the file "out.stat" in the directory
+# the run was started in
+stat.file  $out.stat

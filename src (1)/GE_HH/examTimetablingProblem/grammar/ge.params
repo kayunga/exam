@@ -1,0 +1,13 @@
+# Copyright 2010 by Sean Luke and George Mason University
+# Licensed under the Academic Free License version 3.0
+# See the file "LICENSE" for more information
+
+parent.0 = ../ge.params
+parent.1 = tt.params
+
+ge.species.file.0 = timetable.grammar
+
+
+eval.problem.problem = GE_HH.examTimetablingProblem.ProblemDomain.TimetableProblem
+eval.problem.problem.data = GE_HH.examTimetablingProblem.ProblemDomain.TimetableData
+eval.problem.problem.file = geOutput.trl

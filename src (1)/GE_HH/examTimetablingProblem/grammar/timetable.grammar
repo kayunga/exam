@@ -1,0 +1,16 @@
+# GE-PH BNF grammar
+
+<start> ::= <heuristic>
+<heuristic> ::= <action>|<heuristic>
+<action> ::= <swap>|<shuffle>|<move>|<add>|<delete>|<action>
+<swap>::=(swap <n> <comp><comp>)
+<shuffle>::=(shuffle <n><comp>)
+<move>::=(move <n> <comp><comp>)
+<add>::=(add <n><comp>)
+<delete>::=(delete <n><comp>)
+<comp>::=(comp1)|(comp2)|(comp3)
+<n>::=  (1) | (2) | (3) | (4) | (5) | (6) | (7) | (8) | (9)| (10)
+
+
+
+

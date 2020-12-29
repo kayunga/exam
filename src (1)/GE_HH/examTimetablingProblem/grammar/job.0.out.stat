@@ -1,0 +1,1572 @@
+
+Generation: 0
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=9842.0 Adjusted=1.015950421619425E-4 Hits=0
+Tree 0:
+ (shuffle (move (swap (shuffle exam room)
+     (shuffle exam room)) (shuffle (swap 4 room)
+     (move room period 4)) (swap (shuffle period
+     period) (move 4 4 period))) (swap (swap (move
+     period room 4) (move period exam 4)) (swap
+     (swap exam room) (swap 4 exam))))
+
+Generation: 1
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=9907.0 Adjusted=1.0092854259184497E-4 Hits=0
+Tree 0:
+ (swap (swap (shuffle exam 4) room) 4)
+
+Generation: 2
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=9888.0 Adjusted=1.0112245929821013E-4 Hits=0
+Tree 0:
+ (move (swap (shuffle exam period) (shuffle
+     (move (shuffle period exam) (move room period
+         room) (shuffle 4 period)) (swap (move room
+     4 4) (shuffle room room)))) (swap (swap (shuffle
+     (move exam room room) (shuffle exam exam))
+     (swap (swap exam 4) (shuffle period room)))
+     (swap (swap (move 4 exam period) (swap exam
+         exam)) (swap (shuffle room 4) (swap room
+         period)))) (move (move (shuffle (shuffle
+     exam room) (swap period exam)) (shuffle (move
+     exam exam 4) (move exam period exam)) (move
+     (shuffle room exam) (move period period period)
+     (swap period 4))) (shuffle (move (move room
+     period room) (shuffle 4 exam) (shuffle period
+     exam)) (shuffle (shuffle 4 exam) (shuffle
+     room period))) (swap (swap (shuffle room
+     period) (move period room room)) (move (swap
+     4 4) (move room room 4) (swap period room)))))
+
+Generation: 3
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=9888.0 Adjusted=1.0112245929821013E-4 Hits=0
+Tree 0:
+ (move (swap (shuffle exam period) (shuffle
+     (move (shuffle period exam) (move room period
+         room) (shuffle 4 period)) (swap (move room
+     4 4) (shuffle room room)))) (swap (swap (shuffle
+     (move exam room room) (shuffle exam exam))
+     (swap (swap exam 4) (shuffle period room)))
+     (swap (swap (move 4 exam period) (swap exam
+         exam)) (swap (shuffle room 4) (swap room
+         period)))) (move (move (shuffle (shuffle
+     exam room) (swap period exam)) (shuffle (move
+     exam exam 4) (move exam period exam)) (move
+     (shuffle room exam) (move period period period)
+     (swap period 4))) (shuffle (move (move room
+     period room) (shuffle 4 exam) (shuffle period
+     exam)) (shuffle (shuffle 4 exam) (shuffle
+     room period))) (swap (swap (shuffle room
+     period) (move period room room)) (move (swap
+     4 4) (move room room 4) (swap period room)))))
+
+Generation: 4
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=9863.0 Adjusted=1.0137875101378751E-4 Hits=0
+Tree 0:
+ (swap (move (shuffle (swap exam room) (move
+     4 room period)) (shuffle (shuffle 4 room)
+     (shuffle period period)) (swap (shuffle exam
+     period) (move (swap 4 period) (swap room
+     exam) (shuffle room exam)))) (swap (swap
+     (shuffle 4 period) (move 4 exam exam)) (move
+     (swap 4 period) (swap period (shuffle (move
+     room period 4) (shuffle exam (swap room room))))
+     (shuffle exam room))))
+
+Generation: 5
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=9937.0 Adjusted=1.006238679814852E-4 Hits=0
+Tree 0:
+ (shuffle exam room)
+
+Generation: 6
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=10325.0 Adjusted=9.68429207824908E-5 Hits=0
+Tree 0:
+ (move (move (shuffle (shuffle room period)
+     (swap (shuffle exam room) (swap exam room)))
+     (shuffle (shuffle period exam) (move 4 exam
+         room)) (shuffle (swap 4 exam) (shuffle 4
+     4))) (shuffle (swap (shuffle room room) (swap
+     4 exam)) (swap (swap room period) (swap period
+     room))) (shuffle (shuffle (move room period
+     exam) (shuffle exam 4)) (swap (swap exam
+     period) (swap period room))))
+
+Generation: 7
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=10325.0 Adjusted=9.68429207824908E-5 Hits=0
+Tree 0:
+ (move (move (shuffle (shuffle room period)
+     (swap (shuffle exam room) (swap exam room)))
+     (shuffle (shuffle period exam) (move 4 exam
+         room)) (shuffle (swap 4 exam) (shuffle 4
+     4))) (shuffle (swap (shuffle room room) (swap
+     4 exam)) (swap (swap room period) (swap period
+     room))) (shuffle (shuffle (move room period
+     exam) (shuffle exam 4)) (swap (swap exam
+     period) (swap period room))))
+
+Generation: 8
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=10436.0 Adjusted=9.581297307655457E-5 Hits=0
+Tree 0:
+ (move (swap (shuffle exam period) (shuffle
+     (move (shuffle period exam) (move room period
+         room) (shuffle 4 period)) (swap (move room
+     4 4) (shuffle room room)))) (swap (shuffle
+     period room) (shuffle exam exam)) (move (move
+     (shuffle (shuffle exam room) (swap period
+         exam)) (shuffle (shuffle (shuffle 4 room)
+     (move room 4 period)) (move exam period exam))
+     (move (shuffle room exam) (move period period
+         period) (swap period 4))) (shuffle (move
+     (move room period room) (shuffle 4 exam)
+     (shuffle period exam)) (shuffle (shuffle
+     room 4) (shuffle room period))) (swap (swap
+     (shuffle room period) (move period room room))
+     (move exam (move room room 4) (swap period
+         room)))))
+
+Generation: 9
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=10507.0 Adjusted=9.516558812333461E-5 Hits=0
+Tree 0:
+ (swap (swap (swap (shuffle period room) (shuffle
+     exam exam)) (shuffle (shuffle period 4) (shuffle
+     period room))) (shuffle (swap (shuffle period
+     room) (swap exam 4)) period))
+
+Generation: 10
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=10254.0 Adjusted=9.751340809361287E-5 Hits=0
+Tree 0:
+ (swap (shuffle period (swap (swap (swap (shuffle
+     period room) (shuffle exam exam)) (shuffle
+     (shuffle period 4) (shuffle (swap exam exam)
+     (shuffle (shuffle period 4) 4)))) (shuffle
+     (swap (swap (move (shuffle exam room) (shuffle
+         exam room) (swap period room)) (shuffle room
+         room)) (move exam 4 (move room period exam)))
+     (shuffle (swap 4 (shuffle period room)) (move
+         room exam 4))))) room)
+
+Generation: 11
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=10193.0 Adjusted=9.809691975671964E-5 Hits=0
+Tree 0:
+ (move (move (shuffle period exam) (swap (swap
+     (shuffle period period) period) (shuffle
+     (swap period period) (swap room exam))) (shuffle
+     exam exam)) (shuffle exam (shuffle 4 period))
+     (shuffle (move exam period exam) (swap (shuffle
+         (shuffle room period) (swap exam exam)) (move
+         4 room 4))))
+
+Generation: 12
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=10566.0 Adjusted=9.463423866754992E-5 Hits=0
+Tree 0:
+ (move (move (shuffle (shuffle room period)
+     (swap (shuffle exam room) (swap exam room)))
+     (move room period exam) (shuffle (swap 4
+     exam) (shuffle 4 4))) exam (shuffle (shuffle
+     (move room period exam) (shuffle exam 4))
+     (swap (move (swap room period) (shuffle period
+         4) (shuffle period period)) (swap period
+         room))))
+
+Generation: 13
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=10465.0 Adjusted=9.554748710108924E-5 Hits=0
+Tree 0:
+ (move (move (shuffle (shuffle room period)
+     (swap (shuffle exam room) (shuffle (shuffle
+         (move exam room room) (move period period
+         period)) (shuffle (move room period exam)
+         (move 4 room room))))) (move exam 4 period)
+     (shuffle (swap 4 exam) (shuffle 4 4))) (shuffle
+     (swap (swap (swap (shuffle period (swap exam
+         4)) (shuffle period room)) (shuffle exam
+         4)) (swap 4 exam)) (swap (swap room period)
+     (swap period room))) (shuffle exam (swap
+     (swap exam period) (swap period room))))
+
+Generation: 14
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=10312.0 Adjusted=9.69649956365752E-5 Hits=0
+Tree 0:
+ (swap (swap (swap (shuffle period room) (swap
+     (shuffle exam period) period)) (shuffle room
+     room)) (shuffle 4 (move (shuffle 4 4) (swap
+     room (swap period room)) (shuffle 4 4))))
+
+Generation: 15
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=10151.0 Adjusted=9.850275807722617E-5 Hits=0
+Tree 0:
+ (swap (move (shuffle period room) (shuffle
+     (swap (swap (move (shuffle exam room) (shuffle
+         (shuffle (move (move room period room) (shuffle
+             4 exam) (shuffle period exam)) (shuffle (shuffle
+             (swap 4 exam) exam) (swap (swap exam 4) (swap
+             period period)))) 4) (swap period room))
+         (shuffle room room)) (shuffle (shuffle room
+         exam) (swap period exam))) (swap period period))
+     (move room room 4)) (shuffle (swap (swap
+     (shuffle (move room room (shuffle (shuffle
+         (swap period exam) (move (move (shuffle room
+         room) period room) (shuffle exam room) (move
+         (shuffle period (move 4 exam room)) room
+         4))) (shuffle (move room period exam) (move
+         4 room room)))) (swap room 4)) (shuffle (shuffle
+     exam 4) (shuffle period 4))) (swap room 4))
+     (shuffle room period)))
+
+Generation: 16
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=10028.0 Adjusted=9.971083856815236E-5 Hits=0
+Tree 0:
+ (move exam (move (shuffle exam (shuffle period
+     room)) (swap (swap (move (swap (move (move
+     (move exam exam 4) (swap room exam) (swap
+     4 4)) (swap (shuffle period 4) (shuffle period
+     room)) (shuffle exam 4)) exam) (shuffle exam
+     room) (swap period period)) (move exam (move
+     room room 4) (move exam 4 period))) (shuffle
+     (move (shuffle 4 4) (swap room (swap period
+         room)) (shuffle 4 4)) (shuffle (shuffle room
+     4) (swap 4 4)))) (shuffle exam exam)) (swap
+     (swap (move 4 room period) period) room))
+
+Generation: 17
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=10277.0 Adjusted=9.72951936174353E-5 Hits=0
+Tree 0:
+ (move (move (shuffle (shuffle exam (shuffle
+     (swap 4 (shuffle period room)) (move 4 exam
+     room))) (swap (shuffle exam room) (swap exam
+     room))) (move room period exam) (shuffle
+     (swap 4 exam) (shuffle 4 4))) exam (shuffle
+     (shuffle (move room period (swap (shuffle
+         exam room) (shuffle (shuffle (shuffle exam
+         period) (shuffle room period)) (move (swap
+         (move room 4 4) (shuffle room room)) period
+         room)))) (shuffle exam 4)) (swap (move (swap
+     room period) (shuffle period room) (shuffle
+     period period)) (swap period 4))))
+
+Generation: 18
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=10167.0 Adjusted=9.83477576711251E-5 Hits=0
+Tree 0:
+ (swap (move (shuffle period exam) (swap period
+     (move (move (shuffle (shuffle (move (shuffle
+         exam (shuffle period room)) (swap (swap (move
+         (swap (move (shuffle (swap 4 (shuffle period
+             room)) (move room exam 4)) (swap (shuffle
+             period 4) (shuffle (shuffle 4 period) (shuffle
+             period period))) (shuffle exam 4)) exam)
+         (shuffle period room) (swap period period))
+         (shuffle (shuffle period 4) (shuffle period
+             period))) (shuffle (shuffle room room) (shuffle
+         (swap 4 period) (swap 4 4)))) (shuffle period
+         4)) period) (swap (shuffle exam room) (swap
+         exam room))) (swap period room) (shuffle
+         (swap 4 exam) (shuffle 4 4))) (shuffle (swap
+         4 exam) (shuffle 4 4)) (shuffle exam (swap
+         (swap exam period) (swap period room)))))
+     (shuffle period 4)) 4)
+
+Generation: 19
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=9929.0 Adjusted=1.0070493454179255E-4 Hits=0
+Tree 0:
+ (swap (shuffle (shuffle exam room) (swap
+     (move (shuffle period exam) (shuffle (shuffle
+         period 4) 4) (shuffle period 4)) (shuffle
+     period 4))) (move (swap (shuffle period exam)
+     period) (swap (swap (shuffle (move room room
+     (shuffle room period)) (swap (shuffle period
+     period) (shuffle (shuffle room room) (move
+     (move period period period) exam 4)))) (shuffle
+     (shuffle exam 4) (swap room room))) (swap
+     room 4)) (shuffle room room)))
+
+Generation: 20
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=9558.0 Adjusted=1.046134532900931E-4 Hits=0
+Tree 0:
+ (swap (move (shuffle period exam) (swap period
+     (move (move (shuffle (shuffle (move (shuffle
+         exam (shuffle period room)) (swap (swap (move
+         (swap (move (shuffle (swap 4 (shuffle period
+             room)) (move room exam 4)) (swap (shuffle
+             period 4) (shuffle (shuffle 4 period) (shuffle
+             period period))) (shuffle exam 4)) exam)
+         (shuffle period room) (swap period period))
+         (shuffle (shuffle period 4) (shuffle period
+             period))) (shuffle (shuffle room room) (shuffle
+         (swap 4 (swap (shuffle period room) (swap
+             period room))) (swap 4 4)))) (shuffle period
+         4)) period) (swap (shuffle exam room) (swap
+         exam room))) (swap period room) (shuffle
+         (swap 4 exam) (shuffle 4 4))) (shuffle (swap
+         4 exam) (shuffle 4 4)) (shuffle exam room)))
+     (shuffle period 4)) 4)
+
+Generation: 21
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=9867.0 Adjusted=1.0133765707336846E-4 Hits=0
+Tree 0:
+ (move (swap (shuffle exam period) (shuffle
+     (move (shuffle period exam) (swap (swap (move
+         (shuffle exam room) room period) period)
+         room) (shuffle 4 period)) (swap (move room
+     4 4) (shuffle exam (move room period room)))))
+     (swap (shuffle period room) (shuffle exam
+         exam)) (move (move (swap 4 4) (move (shuffle
+     period exam) (swap (shuffle exam period)
+     (swap (move room period exam) (swap (move
+         exam 4 period) (shuffle 4 exam)))) (shuffle
+     4 period)) (move (shuffle room exam) (move
+     period period period) (swap period 4))) (shuffle
+     (swap (shuffle period period) (shuffle exam
+         period)) (shuffle (shuffle room 4) (swap
+     room 4))) (swap (swap (swap (swap (shuffle
+     period (swap exam 4)) (shuffle period room))
+     (shuffle exam 4)) (swap 4 exam)) (move exam
+     (move room (move period exam 4) 4) (swap
+     period room)))))
+
+Generation: 22
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=9972.0 Adjusted=1.002707309736288E-4 Hits=0
+Tree 0:
+ (move (swap (shuffle exam period) (shuffle
+     (move (shuffle period exam) (swap (shuffle
+         (shuffle period period) (swap (shuffle room
+         room) (swap 4 room))) room) (shuffle 4 period))
+     (swap (move room 4 4) (shuffle room room))))
+     (swap (swap (shuffle exam 4) (swap (swap
+         exam 4) (shuffle period room))) (swap (swap
+         (move 4 exam period) (swap exam exam)) (swap
+         (shuffle room 4) (swap room period)))) (move
+     (move (shuffle (swap (shuffle (move (move
+         (shuffle period room) period room) (shuffle
+         exam room) (shuffle 4 period)) (swap (shuffle
+         period period) (shuffle (shuffle period 4)
+         (shuffle (swap period exam) (shuffle period
+             4))))) (swap (swap exam period) (shuffle
+         exam 4))) (swap period exam)) (shuffle (move
+         exam exam (swap (shuffle period period) (move
+         4 exam room))) (move exam period exam)) (move
+         (shuffle room exam) (move period period period)
+         (swap period 4))) (shuffle (move (swap period
+     room) period (shuffle period exam)) (shuffle
+     (shuffle (swap 4 exam) exam) (shuffle room
+     period))) (swap (swap (shuffle (shuffle (move
+     (shuffle room room) (move 4 4 period) (move
+     exam exam 4)) (shuffle (shuffle period period)
+     (shuffle room period))) (shuffle exam 4))
+     (move period room room)) (move (swap 4 4)
+     (move room (shuffle exam (move (move (shuffle
+         (shuffle room period) (swap (shuffle exam
+         room) (swap exam room))) (swap period room)
+         (shuffle (swap 4 exam) (shuffle 4 4))) (shuffle
+         (swap (shuffle exam room) (swap (move room
+             period exam) room)) (shuffle 4 4)) (shuffle
+         exam (swap (swap exam period) (swap period
+         room))))) 4) (swap period room)))))
+
+Generation: 23
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=10036.0 Adjusted=9.963136395337252E-5 Hits=0
+Tree 0:
+ (move (shuffle (shuffle room period) (swap
+     (shuffle exam room) (move (shuffle (shuffle
+     (swap exam 4) room) (swap period exam)) (shuffle
+     (move exam exam (swap (shuffle (shuffle period
+         period) (shuffle period room)) room)) (swap
+     (shuffle period period) (shuffle period room)))
+     (swap (move (shuffle exam (shuffle period
+         room)) (swap (swap (move (shuffle (shuffle
+         period 4) (move period period room)) (shuffle
+         exam room) (swap period period)) (move exam
+         (move room room 4) (swap period room))) (shuffle
+         (move (shuffle 4 4) (swap room (swap period
+             room)) (shuffle period 4)) (shuffle (shuffle
+         room 4) (swap 4 4)))) (shuffle exam exam))
+         (shuffle (shuffle room room) (move (move
+             period period period) exam 4)))))) (shuffle
+     (shuffle period exam) (move 4 exam room))
+     (swap period exam))
+
+Generation: 24
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=10085.0 Adjusted=9.9147332936744E-5 Hits=0
+Tree 0:
+ (swap (move (move (move (move (shuffle (shuffle
+     room period) (swap (shuffle exam room) (shuffle
+     room (shuffle (shuffle period 4) (move period
+     period room))))) (move exam 4 period) (shuffle
+     (swap 4 exam) (shuffle 4 4))) (shuffle (swap
+     (swap (swap (shuffle period (swap exam 4))
+         (shuffle period room)) (shuffle exam 4))
+     (swap 4 exam)) (swap (swap room period) (swap
+     period room))) (shuffle exam (swap (swap
+     exam period) (swap period room)))) period
+     period) (shuffle (swap (swap (move (shuffle
+     exam room) period (swap period room)) (shuffle
+     room room)) (shuffle (shuffle room exam)
+     (swap period exam))) (swap period period))
+     (move room room 4)) (shuffle (swap (swap
+     (shuffle (move room room (shuffle (shuffle
+         (shuffle room 4) (move (move (shuffle room
+         room) period room) room (move (shuffle period
+         (move (shuffle (shuffle room period) (swap
+             (shuffle exam room) (swap exam room))) (move
+             (shuffle period room) period room) (shuffle
+             (swap 4 exam) exam))) room 4))) (shuffle
+         (move room period exam) (move 4 room room))))
+         (swap room 4)) (shuffle (shuffle exam 4)
+     (swap (shuffle exam 4) room))) (swap room
+     4)) (shuffle room period)))
+
+Generation: 25
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=10075.0 Adjusted=9.924573243350536E-5 Hits=0
+Tree 0:
+ (move exam (move (shuffle exam (shuffle period
+     room)) (swap (swap (shuffle exam exam) (shuffle
+     (shuffle period 4) (shuffle period period)))
+     (shuffle (move (shuffle 4 4) (swap room (swap
+         period room)) (shuffle 4 4)) (shuffle period
+         (swap 4 4)))) (move (shuffle (shuffle room
+     period) (swap (swap (move (swap 4 4) (move
+     room room 4) (swap period room)) (shuffle
+     room room)) (move exam 4 (move room period
+     exam)))) (move exam 4 period) (shuffle (swap
+     4 exam) (shuffle 4 4)))) (swap (swap (swap
+     (swap (swap (move 4 (swap exam period) period)
+         (swap exam exam)) (shuffle (swap (move (shuffle
+         period room) (shuffle exam exam) (move room
+         room 4)) (move exam (move room room 4) (swap
+         period room))) (shuffle (shuffle (swap room
+         4) (shuffle period room)) (shuffle period
+         (shuffle period exam))))) (shuffle (swap
+     (swap (move (shuffle period exam) (shuffle
+         exam room) (shuffle period 4)) (shuffle room
+         room)) (move exam 4 (move room period exam)))
+     (shuffle (swap 4 (shuffle period room)) (move
+         room exam 4)))) period) room))
+
+Generation: 26
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=9840.0 Adjusted=1.01615689462453E-4 Hits=0
+Tree 0:
+ (move exam (move (shuffle exam (move exam
+     (move (shuffle exam 4) (swap period (shuffle
+         (move (swap (shuffle period room) (shuffle
+             exam exam)) (shuffle exam period) (shuffle
+             exam (swap (swap exam period) (swap period
+             room)))) (move room room period))) (shuffle
+         exam exam)) (swap (swap room period) (swap
+     period room)))) (swap (swap (swap (swap room
+     period) (swap period room)) (shuffle (shuffle
+     (move room period (swap (shuffle exam room)
+         (shuffle (shuffle (shuffle exam period) (shuffle
+             room period)) (move (swap (move room 4 4)
+             (shuffle room room)) period room)))) (shuffle
+     exam 4)) (shuffle period period))) (shuffle
+     room (shuffle (shuffle room 4) (swap 4 4))))
+     (shuffle period 4)) (swap (shuffle room period)
+     room))
+
+Generation: 27
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=9691.0 Adjusted=1.031778786628147E-4 Hits=0
+Tree 0:
+ (move exam (move (shuffle exam (shuffle period
+     room)) (swap (swap (shuffle exam exam) (shuffle
+     (shuffle period 4) (shuffle exam room)))
+     (shuffle (move (shuffle 4 4) (swap room (swap
+         period room)) (shuffle 4 4)) (shuffle period
+         (swap 4 4)))) (move (shuffle (shuffle room
+     period) (swap (swap (move (swap 4 4) (move
+     room room 4) (swap period room)) (shuffle
+     room room)) (move exam 4 (move room period
+     exam)))) (move exam 4 period) (shuffle (swap
+     4 exam) (shuffle 4 4)))) (swap (swap (swap
+     (swap (swap (move 4 (swap exam period) period)
+         (swap exam exam)) (shuffle (swap (move (shuffle
+         period room) (shuffle exam exam) (move room
+         room 4)) (move exam (move room room 4) (swap
+         period room))) (shuffle (shuffle (swap room
+         4) (shuffle period room)) (shuffle period
+         (shuffle period exam))))) (shuffle (swap
+     (swap (move (shuffle period exam) (shuffle
+         exam room) (shuffle period 4)) (shuffle room
+         room)) (move exam 4 (move room period exam)))
+     (shuffle (swap 4 (shuffle period room)) (move
+         room exam 4)))) period) room))
+
+Generation: 28
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=9840.0 Adjusted=1.01615689462453E-4 Hits=0
+Tree 0:
+ (move exam (move (shuffle exam (move exam
+     (move (shuffle exam 4) (swap period (shuffle
+         (move (swap (shuffle period room) (shuffle
+             exam exam)) (shuffle exam period) (shuffle
+             exam (swap (swap exam period) (swap period
+             room)))) (move room room period))) (shuffle
+         exam exam)) (swap (swap room period) (swap
+     period room)))) (swap (swap (swap (swap room
+     period) (swap period room)) (shuffle (shuffle
+     (move room period (swap (shuffle exam room)
+         (shuffle (shuffle (shuffle exam period) (shuffle
+             room period)) (move (swap (move room 4 4)
+             (shuffle room room)) period room)))) (shuffle
+     exam 4)) (shuffle period period))) (shuffle
+     room (shuffle (shuffle room 4) (swap 4 4))))
+     (shuffle period 4)) (swap (shuffle room period)
+     room))
+
+Generation: 29
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=9840.0 Adjusted=1.01615689462453E-4 Hits=0
+Tree 0:
+ (move exam (move (shuffle exam (move exam
+     (move (shuffle exam 4) (swap period (shuffle
+         (move (swap (shuffle period room) (shuffle
+             exam exam)) (shuffle exam period) (shuffle
+             exam (swap (swap exam period) (swap period
+             room)))) (move room room period))) (shuffle
+         exam exam)) (swap (swap room period) (swap
+     period room)))) (swap (swap (swap (swap room
+     period) (swap period room)) (shuffle (shuffle
+     (move room period (swap (shuffle exam room)
+         (shuffle (shuffle (shuffle exam period) (shuffle
+             room period)) (move (swap (move room 4 4)
+             (shuffle room room)) period room)))) (shuffle
+     exam 4)) (shuffle period period))) (shuffle
+     room (shuffle (shuffle room 4) (swap 4 4))))
+     (shuffle period 4)) (swap (shuffle room period)
+     room))
+
+Generation: 30
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=9855.0 Adjusted=1.0146103896103897E-4 Hits=0
+Tree 0:
+ (swap (move (shuffle period room) (shuffle
+     (swap (swap (move (shuffle exam room) (shuffle
+         (shuffle (move (move room period room) (shuffle
+             (shuffle (shuffle (swap 4 exam) exam) (shuffle
+                 room period)) (shuffle (shuffle room 4) (move
+             (shuffle (shuffle exam (shuffle (shuffle
+                 period exam) (move 4 exam room))) 4) (swap
+             period room) (swap (swap (shuffle period
+             (swap exam 4)) (shuffle period room)) (shuffle
+             exam 4))))) (shuffle period exam)) (shuffle
+             (shuffle (swap 4 exam) exam) (swap (swap
+             exam 4) (swap period period)))) 4) (swap
+         period room)) (swap (swap (swap (swap (swap
+         (move 4 exam period) (shuffle exam (move
+         4 room room))) (shuffle (swap (swap (shuffle
+         period room) (move period room room)) (move
+         exam (move room room 4) (swap period room)))
+         (shuffle (shuffle (swap room 4) (shuffle
+             period (swap (move room 4 4) (shuffle room
+             room)))) (shuffle period exam)))) (shuffle
+         (swap (swap (swap period room) (shuffle 4
+             period)) (move exam 4 (move room period exam)))
+         (shuffle (swap 4 (shuffle period room)) (move
+             room exam 4)))) period) room)) (shuffle (shuffle
+         room exam) (swap period exam))) (swap period
+     period)) (move room room 4)) (move (shuffle
+     (shuffle exam period) room) (shuffle period
+     room) (move (move (shuffle (shuffle exam
+     (shuffle (shuffle period exam) (move 4 exam
+         room))) (swap (swap (shuffle (shuffle period
+     period) (move period room room)) room) (swap
+     exam room))) (move room period exam) (shuffle
+     (swap 4 exam) (shuffle 4 4))) exam (shuffle
+     (shuffle (move room period exam) (shuffle
+         exam 4)) (swap (move (swap room period) (shuffle
+     period 4) (shuffle period period)) period)))))
+
+Generation: 31
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=9855.0 Adjusted=1.0146103896103897E-4 Hits=0
+Tree 0:
+ (swap (move (shuffle period room) (shuffle
+     (swap (swap (move (shuffle exam room) (shuffle
+         (shuffle (move (move room period room) (shuffle
+             (shuffle (shuffle (swap 4 exam) exam) (shuffle
+                 room period)) (shuffle (shuffle room 4) (move
+             (shuffle (shuffle exam (shuffle (shuffle
+                 period exam) (move 4 exam room))) 4) (swap
+             period room) (swap (swap (shuffle period
+             (swap exam 4)) (shuffle period room)) (shuffle
+             exam 4))))) (shuffle period exam)) (shuffle
+             (shuffle (swap 4 exam) exam) (swap (swap
+             exam 4) (swap period period)))) 4) (swap
+         period room)) (swap (swap (swap (swap (swap
+         (move 4 exam period) (shuffle exam (move
+         4 room room))) (shuffle (swap (swap (shuffle
+         period room) (move period room room)) (move
+         exam (move room room 4) (swap period room)))
+         (shuffle (shuffle (swap room 4) (shuffle
+             period (swap (move room 4 4) (shuffle room
+             room)))) (shuffle period exam)))) (shuffle
+         (swap (swap (swap period room) (shuffle 4
+             period)) (move exam 4 (move room period exam)))
+         (shuffle (swap 4 (shuffle period room)) (move
+             room exam 4)))) period) room)) (shuffle (shuffle
+         room exam) (swap period exam))) (swap period
+     period)) (move room room 4)) (move (shuffle
+     (shuffle exam period) room) (shuffle period
+     room) (move (move (shuffle (shuffle exam
+     (shuffle (shuffle period exam) (move 4 exam
+         room))) (swap (swap (shuffle (shuffle period
+     period) (move period room room)) room) (swap
+     exam room))) (move room period exam) (shuffle
+     (swap 4 exam) (shuffle 4 4))) exam (shuffle
+     (shuffle (move room period exam) (shuffle
+         exam 4)) (swap (move (swap room period) (shuffle
+     period 4) (shuffle period period)) period)))))
+
+Generation: 32
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=9855.0 Adjusted=1.0146103896103897E-4 Hits=0
+Tree 0:
+ (swap (move (shuffle period room) (shuffle
+     (swap (swap (move (shuffle exam room) (shuffle
+         (shuffle (move (move room period room) (shuffle
+             (shuffle (shuffle (swap 4 exam) exam) (shuffle
+                 room period)) (shuffle (shuffle room 4) (move
+             (shuffle (shuffle exam (shuffle (shuffle
+                 period exam) (move 4 exam room))) 4) (swap
+             period room) (swap (swap (shuffle period
+             (swap exam 4)) (shuffle period room)) (shuffle
+             exam 4))))) (shuffle period exam)) (shuffle
+             (shuffle (swap 4 exam) exam) (swap (swap
+             exam 4) (swap period period)))) 4) (swap
+         period room)) (swap (swap (swap (swap (swap
+         (move 4 exam period) (shuffle exam (move
+         4 room room))) (shuffle (swap (swap (shuffle
+         period room) (move period room room)) (move
+         exam (move room room 4) (swap period room)))
+         (shuffle (shuffle (swap room 4) (shuffle
+             period (swap (move room 4 4) (shuffle room
+             room)))) (shuffle period exam)))) (shuffle
+         (swap (swap (swap period room) (shuffle 4
+             period)) (move exam 4 (move room period exam)))
+         (shuffle (swap 4 (shuffle period room)) (move
+             room exam 4)))) period) room)) (shuffle (shuffle
+         room exam) (swap period exam))) (swap period
+     period)) (move room room 4)) (move (shuffle
+     (shuffle exam period) room) (shuffle period
+     room) (move (move (shuffle (shuffle exam
+     (shuffle (shuffle period exam) (move 4 exam
+         room))) (swap (swap (shuffle (shuffle period
+     period) (move period room room)) room) (swap
+     exam room))) (move room period exam) (shuffle
+     (swap 4 exam) (shuffle 4 4))) exam (shuffle
+     (shuffle (move room period exam) (shuffle
+         exam 4)) (swap (move (swap room period) (shuffle
+     period 4) (shuffle period period)) period)))))
+
+Generation: 33
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=9855.0 Adjusted=1.0146103896103897E-4 Hits=0
+Tree 0:
+ (swap (move (shuffle period room) (shuffle
+     (swap (swap (move (shuffle exam room) (shuffle
+         (shuffle (move (move room period room) (shuffle
+             (shuffle (shuffle (swap 4 exam) exam) (shuffle
+                 room period)) (shuffle (shuffle room 4) (move
+             (shuffle (shuffle exam (shuffle (shuffle
+                 period exam) (move 4 exam room))) 4) (swap
+             period room) (swap (swap (shuffle period
+             (swap exam 4)) (shuffle period room)) (shuffle
+             exam 4))))) (shuffle period exam)) (shuffle
+             (shuffle (swap 4 exam) exam) (swap (swap
+             exam 4) (swap period period)))) 4) (swap
+         period room)) (swap (swap (swap (swap (swap
+         (move 4 exam period) (shuffle exam (move
+         4 room room))) (shuffle (swap (swap (shuffle
+         period room) (move period room room)) (move
+         exam (move room room 4) (swap period room)))
+         (shuffle (shuffle (swap room 4) (shuffle
+             period (swap (move room 4 4) (shuffle room
+             room)))) (shuffle period exam)))) (shuffle
+         (swap (swap (swap period room) (shuffle 4
+             period)) (move exam 4 (move room period exam)))
+         (shuffle (swap 4 (shuffle period room)) (move
+             room exam 4)))) period) room)) (shuffle (shuffle
+         room exam) (swap period exam))) (swap period
+     period)) (move room room 4)) (move (shuffle
+     (shuffle exam period) room) (shuffle period
+     room) (move (move (shuffle (shuffle exam
+     (shuffle (shuffle period exam) (move 4 exam
+         room))) (swap (swap (shuffle (shuffle period
+     period) (move period room room)) room) (swap
+     exam room))) (move room period exam) (shuffle
+     (swap 4 exam) (shuffle 4 4))) exam (shuffle
+     (shuffle (move room period exam) (shuffle
+         exam 4)) (swap (move (swap room period) (shuffle
+     period 4) (shuffle period period)) period)))))
+
+Generation: 34
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=9855.0 Adjusted=1.0146103896103897E-4 Hits=0
+Tree 0:
+ (swap (move (shuffle period room) (shuffle
+     (swap (swap (move (shuffle exam room) (shuffle
+         (shuffle (move (move room period room) (shuffle
+             (shuffle (shuffle (swap 4 exam) exam) (shuffle
+                 room period)) (shuffle (shuffle room 4) (move
+             (shuffle (shuffle exam (shuffle (shuffle
+                 period exam) (move 4 exam room))) 4) (swap
+             period room) (swap (swap (shuffle period
+             (swap exam 4)) (shuffle period room)) (shuffle
+             exam 4))))) (shuffle period exam)) (shuffle
+             (shuffle (swap 4 exam) exam) (swap (swap
+             exam 4) (swap period period)))) 4) (swap
+         period room)) (swap (swap (swap (swap (swap
+         (move 4 exam period) (shuffle exam (move
+         4 room room))) (shuffle (swap (swap (shuffle
+         period room) (move period room room)) (move
+         exam (move room room 4) (swap period room)))
+         (shuffle (shuffle (swap room 4) (shuffle
+             period (swap (move room 4 4) (shuffle room
+             room)))) (shuffle period exam)))) (shuffle
+         (swap (swap (swap period room) (shuffle 4
+             period)) (move exam 4 (move room period exam)))
+         (shuffle (swap 4 (shuffle period room)) (move
+             room exam 4)))) period) room)) (shuffle (shuffle
+         room exam) (swap period exam))) (swap period
+     period)) (move room room 4)) (move (shuffle
+     (shuffle exam period) room) (shuffle period
+     room) (move (move (shuffle (shuffle exam
+     (shuffle (shuffle period exam) (move 4 exam
+         room))) (swap (swap (shuffle (shuffle period
+     period) (move period room room)) room) (swap
+     exam room))) (move room period exam) (shuffle
+     (swap 4 exam) (shuffle 4 4))) exam (shuffle
+     (shuffle (move room period exam) (shuffle
+         exam 4)) (swap (move (swap room period) (shuffle
+     period 4) (shuffle period period)) period)))))
+
+Generation: 35
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=9855.0 Adjusted=1.0146103896103897E-4 Hits=0
+Tree 0:
+ (swap (move (shuffle period room) (shuffle
+     (swap (swap (move (shuffle exam room) (shuffle
+         (shuffle (move (move room period room) (shuffle
+             (shuffle (shuffle (swap 4 exam) exam) (shuffle
+                 room period)) (shuffle (shuffle room 4) (move
+             (shuffle (shuffle exam (shuffle (shuffle
+                 period exam) (move 4 exam room))) 4) (swap
+             period room) (swap (swap (shuffle period
+             (swap exam 4)) (shuffle period room)) (shuffle
+             exam 4))))) (shuffle period exam)) (shuffle
+             (shuffle (swap 4 exam) exam) (swap (swap
+             exam 4) (swap period period)))) 4) (swap
+         period room)) (swap (swap (swap (swap (swap
+         (move 4 exam period) (shuffle exam (move
+         4 room room))) (shuffle (swap (swap (shuffle
+         period room) (move period room room)) (move
+         exam (move room room 4) (swap period room)))
+         (shuffle (shuffle (swap room 4) (shuffle
+             period (swap (move room 4 4) (shuffle room
+             room)))) (shuffle period exam)))) (shuffle
+         (swap (swap (swap period room) (shuffle 4
+             period)) (move exam 4 (move room period exam)))
+         (shuffle (swap 4 (shuffle period room)) (move
+             room exam 4)))) period) room)) (shuffle (shuffle
+         room exam) (swap period exam))) (swap period
+     period)) (move room room 4)) (move (shuffle
+     (shuffle exam period) room) (shuffle period
+     room) (move (move (shuffle (shuffle exam
+     (shuffle (shuffle period exam) (move 4 exam
+         room))) (swap (swap (shuffle (shuffle period
+     period) (move period room room)) room) (swap
+     exam room))) (move room period exam) (shuffle
+     (swap 4 exam) (shuffle 4 4))) exam (shuffle
+     (shuffle (move room period exam) (shuffle
+         exam 4)) (swap (move (swap room period) (shuffle
+     period 4) (shuffle period period)) period)))))
+
+Generation: 36
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=9855.0 Adjusted=1.0146103896103897E-4 Hits=0
+Tree 0:
+ (swap (move (shuffle period room) (shuffle
+     (swap (swap (move (shuffle exam room) (shuffle
+         (shuffle (move (move room period room) (shuffle
+             (shuffle (shuffle (swap 4 exam) exam) (shuffle
+                 room period)) (shuffle (shuffle room 4) (move
+             (shuffle (shuffle exam (shuffle (shuffle
+                 period exam) (move 4 exam room))) 4) (swap
+             period room) (swap (swap (shuffle period
+             (swap exam 4)) (shuffle period room)) (shuffle
+             exam 4))))) (shuffle period exam)) (shuffle
+             (shuffle (swap 4 exam) exam) (swap (swap
+             exam 4) (swap period period)))) 4) (swap
+         period room)) (swap (swap (swap (swap (swap
+         (move 4 exam period) (shuffle exam (move
+         4 room room))) (shuffle (swap (swap (shuffle
+         period room) (move period room room)) (move
+         exam (move room room 4) (swap period room)))
+         (shuffle (shuffle (swap room 4) (shuffle
+             period (swap (move room 4 4) (shuffle room
+             room)))) (shuffle period exam)))) (shuffle
+         (swap (swap (swap period room) (shuffle 4
+             period)) (move exam 4 (move room period exam)))
+         (shuffle (swap 4 (shuffle period room)) (move
+             room exam 4)))) period) room)) (shuffle (shuffle
+         room exam) (swap period exam))) (swap period
+     period)) (move room room 4)) (move (shuffle
+     (shuffle exam period) room) (shuffle period
+     room) (move (move (shuffle (shuffle exam
+     (shuffle (shuffle period exam) (move 4 exam
+         room))) (swap (swap (shuffle (shuffle period
+     period) (move period room room)) room) (swap
+     exam room))) (move room period exam) (shuffle
+     (swap 4 exam) (shuffle 4 4))) exam (shuffle
+     (shuffle (move room period exam) (shuffle
+         exam 4)) (swap (move (swap room period) (shuffle
+     period 4) (shuffle period period)) period)))))
+
+Generation: 37
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=9855.0 Adjusted=1.0146103896103897E-4 Hits=0
+Tree 0:
+ (swap (move (shuffle period room) (shuffle
+     (swap (swap (move (shuffle exam room) (shuffle
+         (shuffle (move (move room period room) (shuffle
+             (shuffle (shuffle (swap 4 exam) exam) (shuffle
+                 room period)) (shuffle (shuffle room 4) (move
+             (shuffle (shuffle exam (shuffle (shuffle
+                 period exam) (move 4 exam room))) 4) (swap
+             period room) (swap (swap (shuffle period
+             (swap exam 4)) (shuffle period room)) (shuffle
+             exam 4))))) (shuffle period exam)) (shuffle
+             (shuffle (swap 4 exam) exam) (swap (swap
+             exam 4) (swap period period)))) 4) (swap
+         period room)) (swap (swap (swap (swap (swap
+         (move 4 exam period) (shuffle exam (move
+         4 room room))) (shuffle (swap (swap (shuffle
+         period room) (move period room room)) (move
+         exam (move room room 4) (swap period room)))
+         (shuffle (shuffle (swap room 4) (shuffle
+             period (swap (move room 4 4) (shuffle room
+             room)))) (shuffle period exam)))) (shuffle
+         (swap (swap (swap period room) (shuffle 4
+             period)) (move exam 4 (move room period exam)))
+         (shuffle (swap 4 (shuffle period room)) (move
+             room exam 4)))) period) room)) (shuffle (shuffle
+         room exam) (swap period exam))) (swap period
+     period)) (move room room 4)) (move (shuffle
+     (shuffle exam period) room) (shuffle period
+     room) (move (move (shuffle (shuffle exam
+     (shuffle (shuffle period exam) (move 4 exam
+         room))) (swap (swap (shuffle (shuffle period
+     period) (move period room room)) room) (swap
+     exam room))) (move room period exam) (shuffle
+     (swap 4 exam) (shuffle 4 4))) exam (shuffle
+     (shuffle (move room period exam) (shuffle
+         exam 4)) (swap (move (swap room period) (shuffle
+     period 4) (shuffle period period)) period)))))
+
+Generation: 38
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=9855.0 Adjusted=1.0146103896103897E-4 Hits=0
+Tree 0:
+ (swap (move (shuffle period room) (shuffle
+     (swap (swap (move (shuffle exam room) (shuffle
+         (shuffle (move (move room period room) (shuffle
+             (shuffle (shuffle (swap 4 exam) exam) (shuffle
+                 room period)) (shuffle (shuffle room 4) (move
+             (shuffle (shuffle exam (shuffle (shuffle
+                 period exam) (move 4 exam room))) 4) (swap
+             period room) (swap (swap (shuffle period
+             (swap exam 4)) (shuffle period room)) (shuffle
+             exam 4))))) (shuffle period exam)) (shuffle
+             (shuffle (swap 4 exam) exam) (swap (swap
+             exam 4) (swap period period)))) 4) (swap
+         period room)) (swap (swap (swap (swap (swap
+         (move 4 exam period) (shuffle exam (move
+         4 room room))) (shuffle (swap (swap (shuffle
+         period room) (move period room room)) (move
+         exam (move room room 4) (swap period room)))
+         (shuffle (shuffle (swap room 4) (shuffle
+             period (swap (move room 4 4) (shuffle room
+             room)))) (shuffle period exam)))) (shuffle
+         (swap (swap (swap period room) (shuffle 4
+             period)) (move exam 4 (move room period exam)))
+         (shuffle (swap 4 (shuffle period room)) (move
+             room exam 4)))) period) room)) (shuffle (shuffle
+         room exam) (swap period exam))) (swap period
+     period)) (move room room 4)) (move (shuffle
+     (shuffle exam period) room) (shuffle period
+     room) (move (move (shuffle (shuffle exam
+     (shuffle (shuffle period exam) (move 4 exam
+         room))) (swap (swap (shuffle (shuffle period
+     period) (move period room room)) room) (swap
+     exam room))) (move room period exam) (shuffle
+     (swap 4 exam) (shuffle 4 4))) exam (shuffle
+     (shuffle (move room period exam) (shuffle
+         exam 4)) (swap (move (swap room period) (shuffle
+     period 4) (shuffle period period)) period)))))
+
+Generation: 39
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=9855.0 Adjusted=1.0146103896103897E-4 Hits=0
+Tree 0:
+ (swap (move (shuffle period room) (shuffle
+     (swap (swap (move (shuffle exam room) (shuffle
+         (shuffle (move (move room period room) (shuffle
+             (shuffle (shuffle (swap 4 exam) exam) (shuffle
+                 room period)) (shuffle (shuffle room 4) (move
+             (shuffle (shuffle exam (shuffle (shuffle
+                 period exam) (move 4 exam room))) 4) (swap
+             period room) (swap (swap (shuffle period
+             (swap exam 4)) (shuffle period room)) (shuffle
+             exam 4))))) (shuffle period exam)) (shuffle
+             (shuffle (swap 4 exam) exam) (swap (swap
+             exam 4) (swap period period)))) 4) (swap
+         period room)) (swap (swap (swap (swap (swap
+         (move 4 exam period) (shuffle exam (move
+         4 room room))) (shuffle (swap (swap (shuffle
+         period room) (move period room room)) (move
+         exam (move room room 4) (swap period room)))
+         (shuffle (shuffle (swap room 4) (shuffle
+             period (swap (move room 4 4) (shuffle room
+             room)))) (shuffle period exam)))) (shuffle
+         (swap (swap (swap period room) (shuffle 4
+             period)) (move exam 4 (move room period exam)))
+         (shuffle (swap 4 (shuffle period room)) (move
+             room exam 4)))) period) room)) (shuffle (shuffle
+         room exam) (swap period exam))) (swap period
+     period)) (move room room 4)) (move (shuffle
+     (shuffle exam period) room) (shuffle period
+     room) (move (move (shuffle (shuffle exam
+     (shuffle (shuffle period exam) (move 4 exam
+         room))) (swap (swap (shuffle (shuffle period
+     period) (move period room room)) room) (swap
+     exam room))) (move room period exam) (shuffle
+     (swap 4 exam) (shuffle 4 4))) exam (shuffle
+     (shuffle (move room period exam) (shuffle
+         exam 4)) (swap (move (swap room period) (shuffle
+     period 4) (shuffle period period)) period)))))
+
+Generation: 40
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=9855.0 Adjusted=1.0146103896103897E-4 Hits=0
+Tree 0:
+ (swap (move (shuffle period room) (shuffle
+     (swap (swap (move (shuffle exam room) (shuffle
+         (shuffle (move (move room period room) (shuffle
+             (shuffle (shuffle (swap 4 exam) exam) (shuffle
+                 room period)) (shuffle (shuffle room 4) (move
+             (shuffle (shuffle exam (shuffle (shuffle
+                 period exam) (move 4 exam room))) 4) (swap
+             period room) (swap (swap (shuffle period
+             (swap exam 4)) (shuffle period room)) (shuffle
+             exam 4))))) (shuffle period exam)) (shuffle
+             (shuffle (swap 4 exam) exam) (swap (swap
+             exam 4) (swap period period)))) 4) (swap
+         period room)) (swap (swap (swap (swap (swap
+         (move 4 exam period) (shuffle exam (move
+         4 room room))) (shuffle (swap (swap (shuffle
+         period room) (move period room room)) (move
+         exam (move room room 4) (swap period room)))
+         (shuffle (shuffle (swap room 4) (shuffle
+             period (swap (move room 4 4) (shuffle room
+             room)))) (shuffle period exam)))) (shuffle
+         (swap (swap (swap period room) (shuffle 4
+             period)) (move exam 4 (move room period exam)))
+         (shuffle (swap 4 (shuffle period room)) (move
+             room exam 4)))) period) room)) (shuffle (shuffle
+         room exam) (swap period exam))) (swap period
+     period)) (move room room 4)) (move (shuffle
+     (shuffle exam period) room) (shuffle period
+     room) (move (move (shuffle (shuffle exam
+     (shuffle (shuffle period exam) (move 4 exam
+         room))) (swap (swap (shuffle (shuffle period
+     period) (move period room room)) room) (swap
+     exam room))) (move room period exam) (shuffle
+     (swap 4 exam) (shuffle 4 4))) exam (shuffle
+     (shuffle (move room period exam) (shuffle
+         exam 4)) (swap (move (swap room period) (shuffle
+     period 4) (shuffle period period)) period)))))
+
+Generation: 41
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=9855.0 Adjusted=1.0146103896103897E-4 Hits=0
+Tree 0:
+ (swap (move (shuffle period room) (shuffle
+     (swap (swap (move (shuffle exam room) (shuffle
+         (shuffle (move (move room period room) (shuffle
+             (shuffle (shuffle (swap 4 exam) exam) (shuffle
+                 room period)) (shuffle (shuffle room 4) (move
+             (shuffle (shuffle exam (shuffle (shuffle
+                 period exam) (move 4 exam room))) 4) (swap
+             period room) (swap (swap (shuffle period
+             (swap exam 4)) (shuffle period room)) (shuffle
+             exam 4))))) (shuffle period exam)) (shuffle
+             (shuffle (swap 4 exam) exam) (swap (swap
+             exam 4) (swap period period)))) 4) (swap
+         period room)) (swap (swap (swap (swap (swap
+         (move 4 exam period) (shuffle exam (move
+         4 room room))) (shuffle (swap (swap (shuffle
+         period room) (move period room room)) (move
+         exam (move room room 4) (swap period room)))
+         (shuffle (shuffle (swap room 4) (shuffle
+             period (swap (move room 4 4) (shuffle room
+             room)))) (shuffle period exam)))) (shuffle
+         (swap (swap (swap period room) (shuffle 4
+             period)) (move exam 4 (move room period exam)))
+         (shuffle (swap 4 (shuffle period room)) (move
+             room exam 4)))) period) room)) (shuffle (shuffle
+         room exam) (swap period exam))) (swap period
+     period)) (move room room 4)) (move (shuffle
+     (shuffle exam period) room) (shuffle period
+     room) (move (move (shuffle (shuffle exam
+     (shuffle (shuffle period exam) (move 4 exam
+         room))) (swap (swap (shuffle (shuffle period
+     period) (move period room room)) room) (swap
+     exam room))) (move room period exam) (shuffle
+     (swap 4 exam) (shuffle 4 4))) exam (shuffle
+     (shuffle (move room period exam) (shuffle
+         exam 4)) (swap (move (swap room period) (shuffle
+     period 4) (shuffle period period)) period)))))
+
+Generation: 42
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=9855.0 Adjusted=1.0146103896103897E-4 Hits=0
+Tree 0:
+ (swap (move (shuffle period room) (shuffle
+     (swap (swap (move (shuffle exam room) (shuffle
+         (shuffle (move (move room period room) (shuffle
+             (shuffle (shuffle (swap 4 exam) exam) (shuffle
+                 room period)) (shuffle (shuffle room 4) (move
+             (shuffle (shuffle exam (shuffle (shuffle
+                 period exam) (move 4 exam room))) 4) (swap
+             period room) (swap (swap (shuffle period
+             (swap exam 4)) (shuffle period room)) (shuffle
+             exam 4))))) (shuffle period exam)) (shuffle
+             (shuffle (swap 4 exam) exam) (swap (swap
+             exam 4) (swap period period)))) 4) (swap
+         period room)) (swap (swap (swap (swap (swap
+         (move 4 exam period) (shuffle exam (move
+         4 room room))) (shuffle (swap (swap (shuffle
+         period room) (move period room room)) (move
+         exam (move room room 4) (swap period room)))
+         (shuffle (shuffle (swap room 4) (shuffle
+             period (swap (move room 4 4) (shuffle room
+             room)))) (shuffle period exam)))) (shuffle
+         (swap (swap (swap period room) (shuffle 4
+             period)) (move exam 4 (move room period exam)))
+         (shuffle (swap 4 (shuffle period room)) (move
+             room exam 4)))) period) room)) (shuffle (shuffle
+         room exam) (swap period exam))) (swap period
+     period)) (move room room 4)) (move (shuffle
+     (shuffle exam period) room) (shuffle period
+     room) (move (move (shuffle (shuffle exam
+     (shuffle (shuffle period exam) (move 4 exam
+         room))) (swap (swap (shuffle (shuffle period
+     period) (move period room room)) room) (swap
+     exam room))) (move room period exam) (shuffle
+     (swap 4 exam) (shuffle 4 4))) exam (shuffle
+     (shuffle (move room period exam) (shuffle
+         exam 4)) (swap (move (swap room period) (shuffle
+     period 4) (shuffle period period)) period)))))
+
+Generation: 43
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=9855.0 Adjusted=1.0146103896103897E-4 Hits=0
+Tree 0:
+ (swap (move (shuffle period room) (shuffle
+     (swap (swap (move (shuffle exam room) (shuffle
+         (shuffle (move (move room period room) (shuffle
+             (shuffle (shuffle (swap 4 exam) exam) (shuffle
+                 room period)) (shuffle (shuffle room 4) (move
+             (shuffle (shuffle exam (shuffle (shuffle
+                 period exam) (move 4 exam room))) 4) (swap
+             period room) (swap (swap (shuffle period
+             (swap exam 4)) (shuffle period room)) (shuffle
+             exam 4))))) (shuffle period exam)) (shuffle
+             (shuffle (swap 4 exam) exam) (swap (swap
+             exam 4) (swap period period)))) 4) (swap
+         period room)) (swap (swap (swap (swap (swap
+         (move 4 exam period) (shuffle exam (move
+         4 room room))) (shuffle (swap (swap (shuffle
+         period room) (move period room room)) (move
+         exam (move room room 4) (swap period room)))
+         (shuffle (shuffle (swap room 4) (shuffle
+             period (swap (move room 4 4) (shuffle room
+             room)))) (shuffle period exam)))) (shuffle
+         (swap (swap (swap period room) (shuffle 4
+             period)) (move exam 4 (move room period exam)))
+         (shuffle (swap 4 (shuffle period room)) (move
+             room exam 4)))) period) room)) (shuffle (shuffle
+         room exam) (swap period exam))) (swap period
+     period)) (move room room 4)) (move (shuffle
+     (shuffle exam period) room) (shuffle period
+     room) (move (move (shuffle (shuffle exam
+     (shuffle (shuffle period exam) (move 4 exam
+         room))) (swap (swap (shuffle (shuffle period
+     period) (move period room room)) room) (swap
+     exam room))) (move room period exam) (shuffle
+     (swap 4 exam) (shuffle 4 4))) exam (shuffle
+     (shuffle (move room period exam) (shuffle
+         exam 4)) (swap (move (swap room period) (shuffle
+     period 4) (shuffle period period)) period)))))
+
+Generation: 44
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=9855.0 Adjusted=1.0146103896103897E-4 Hits=0
+Tree 0:
+ (swap (move (shuffle period room) (shuffle
+     (swap (swap (move (shuffle exam room) (shuffle
+         (shuffle (move (move room period room) (shuffle
+             (shuffle (shuffle (swap 4 exam) exam) (shuffle
+                 room period)) (shuffle (shuffle room 4) (move
+             (shuffle (shuffle exam (shuffle (shuffle
+                 period exam) (move 4 exam room))) 4) (swap
+             period room) (swap (swap (shuffle period
+             (swap exam 4)) (shuffle period room)) (shuffle
+             exam 4))))) (shuffle period exam)) (shuffle
+             (shuffle (swap 4 exam) exam) (swap (swap
+             exam 4) (swap period period)))) 4) (swap
+         period room)) (swap (swap (swap (swap (swap
+         (move 4 exam period) (shuffle exam (move
+         4 room room))) (shuffle (swap (swap (shuffle
+         period room) (move period room room)) (move
+         exam (move room room 4) (swap period room)))
+         (shuffle (shuffle (swap room 4) (shuffle
+             period (swap (move room 4 4) (shuffle room
+             room)))) (shuffle period exam)))) (shuffle
+         (swap (swap (swap period room) (shuffle 4
+             period)) (move exam 4 (move room period exam)))
+         (shuffle (swap 4 (shuffle period room)) (move
+             room exam 4)))) period) room)) (shuffle (shuffle
+         room exam) (swap period exam))) (swap period
+     period)) (move room room 4)) (move (shuffle
+     (shuffle exam period) room) (shuffle period
+     room) (move (move (shuffle (shuffle exam
+     (shuffle (shuffle period exam) (move 4 exam
+         room))) (swap (swap (shuffle (shuffle period
+     period) (move period room room)) room) (swap
+     exam room))) (move room period exam) (shuffle
+     (swap 4 exam) (shuffle 4 4))) exam (shuffle
+     (shuffle (move room period exam) (shuffle
+         exam 4)) (swap (move (swap room period) (shuffle
+     period 4) (shuffle period period)) period)))))
+
+Generation: 45
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=9855.0 Adjusted=1.0146103896103897E-4 Hits=0
+Tree 0:
+ (swap (move (shuffle period room) (shuffle
+     (swap (swap (move (shuffle exam room) (shuffle
+         (shuffle (move (move room period room) (shuffle
+             (shuffle (shuffle (swap 4 exam) exam) (shuffle
+                 room period)) (shuffle (shuffle room 4) (move
+             (shuffle (shuffle exam (shuffle (shuffle
+                 period exam) (move 4 exam room))) 4) (swap
+             period room) (swap (swap (shuffle period
+             (swap exam 4)) (shuffle period room)) (shuffle
+             exam 4))))) (shuffle period exam)) (shuffle
+             (shuffle (swap 4 exam) exam) (swap (swap
+             exam 4) (swap period period)))) 4) (swap
+         period room)) (swap (swap (swap (swap (swap
+         (move 4 exam period) (shuffle exam (move
+         4 room room))) (shuffle (swap (swap (shuffle
+         period room) (move period room room)) (move
+         exam (move room room 4) (swap period room)))
+         (shuffle (shuffle (swap room 4) (shuffle
+             period (swap (move room 4 4) (shuffle room
+             room)))) (shuffle period exam)))) (shuffle
+         (swap (swap (swap period room) (shuffle 4
+             period)) (move exam 4 (move room period exam)))
+         (shuffle (swap 4 (shuffle period room)) (move
+             room exam 4)))) period) room)) (shuffle (shuffle
+         room exam) (swap period exam))) (swap period
+     period)) (move room room 4)) (move (shuffle
+     (shuffle exam period) room) (shuffle period
+     room) (move (move (shuffle (shuffle exam
+     (shuffle (shuffle period exam) (move 4 exam
+         room))) (swap (swap (shuffle (shuffle period
+     period) (move period room room)) room) (swap
+     exam room))) (move room period exam) (shuffle
+     (swap 4 exam) (shuffle 4 4))) exam (shuffle
+     (shuffle (move room period exam) (shuffle
+         exam 4)) (swap (move (swap room period) (shuffle
+     period 4) (shuffle period period)) period)))))
+
+Generation: 46
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=9855.0 Adjusted=1.0146103896103897E-4 Hits=0
+Tree 0:
+ (swap (move (shuffle period room) (shuffle
+     (swap (swap (move (shuffle exam room) (shuffle
+         (shuffle (move (move room period room) (shuffle
+             (shuffle (shuffle (swap 4 exam) exam) (shuffle
+                 room period)) (shuffle (shuffle room 4) (move
+             (shuffle (shuffle exam (shuffle (shuffle
+                 period exam) (move 4 exam room))) 4) (swap
+             period room) (swap (swap (shuffle period
+             (swap exam 4)) (shuffle period room)) (shuffle
+             exam 4))))) (shuffle period exam)) (shuffle
+             (shuffle (swap 4 exam) exam) (swap (swap
+             exam 4) (swap period period)))) 4) (swap
+         period room)) (swap (swap (swap (swap (swap
+         (move 4 exam period) (shuffle exam (move
+         4 room room))) (shuffle (swap (swap (shuffle
+         period room) (move period room room)) (move
+         exam (move room room 4) (swap period room)))
+         (shuffle (shuffle (swap room 4) (shuffle
+             period (swap (move room 4 4) (shuffle room
+             room)))) (shuffle period exam)))) (shuffle
+         (swap (swap (swap period room) (shuffle 4
+             period)) (move exam 4 (move room period exam)))
+         (shuffle (swap 4 (shuffle period room)) (move
+             room exam 4)))) period) room)) (shuffle (shuffle
+         room exam) (swap period exam))) (swap period
+     period)) (move room room 4)) (move (shuffle
+     (shuffle exam period) room) (shuffle period
+     room) (move (move (shuffle (shuffle exam
+     (shuffle (shuffle period exam) (move 4 exam
+         room))) (swap (swap (shuffle (shuffle period
+     period) (move period room room)) room) (swap
+     exam room))) (move room period exam) (shuffle
+     (swap 4 exam) (shuffle 4 4))) exam (shuffle
+     (shuffle (move room period exam) (shuffle
+         exam 4)) (swap (move (swap room period) (shuffle
+     period 4) (shuffle period period)) period)))))
+
+Generation: 47
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=9855.0 Adjusted=1.0146103896103897E-4 Hits=0
+Tree 0:
+ (swap (move (shuffle period room) (shuffle
+     (swap (swap (move (shuffle exam room) (shuffle
+         (shuffle (move (move room period room) (shuffle
+             (shuffle (shuffle (swap 4 exam) exam) (shuffle
+                 room period)) (shuffle (shuffle room 4) (move
+             (shuffle (shuffle exam (shuffle (shuffle
+                 period exam) (move 4 exam room))) 4) (swap
+             period room) (swap (swap (shuffle period
+             (swap exam 4)) (shuffle period room)) (shuffle
+             exam 4))))) (shuffle period exam)) (shuffle
+             (shuffle (swap 4 exam) exam) (swap (swap
+             exam 4) (swap period period)))) 4) (swap
+         period room)) (swap (swap (swap (swap (swap
+         (move 4 exam period) (shuffle exam (move
+         4 room room))) (shuffle (swap (swap (shuffle
+         period room) (move period room room)) (move
+         exam (move room room 4) (swap period room)))
+         (shuffle (shuffle (swap room 4) (shuffle
+             period (swap (move room 4 4) (shuffle room
+             room)))) (shuffle period exam)))) (shuffle
+         (swap (swap (swap period room) (shuffle 4
+             period)) (move exam 4 (move room period exam)))
+         (shuffle (swap 4 (shuffle period room)) (move
+             room exam 4)))) period) room)) (shuffle (shuffle
+         room exam) (swap period exam))) (swap period
+     period)) (move room room 4)) (move (shuffle
+     (shuffle exam period) room) (shuffle period
+     room) (move (move (shuffle (shuffle exam
+     (shuffle (shuffle period exam) (move 4 exam
+         room))) (swap (swap (shuffle (shuffle period
+     period) (move period room room)) room) (swap
+     exam room))) (move room period exam) (shuffle
+     (swap 4 exam) (shuffle 4 4))) exam (shuffle
+     (shuffle (move room period exam) (shuffle
+         exam 4)) (swap (move (swap room period) (shuffle
+     period 4) (shuffle period period)) period)))))
+
+Generation: 48
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=9855.0 Adjusted=1.0146103896103897E-4 Hits=0
+Tree 0:
+ (swap (move (shuffle period room) (shuffle
+     (swap (swap (move (shuffle exam room) (shuffle
+         (shuffle (move (move room period room) (shuffle
+             (shuffle (shuffle (swap 4 exam) exam) (shuffle
+                 room period)) (shuffle (shuffle room 4) (move
+             (shuffle (shuffle exam (shuffle (shuffle
+                 period exam) (move 4 exam room))) 4) (swap
+             period room) (swap (swap (shuffle period
+             (swap exam 4)) (shuffle period room)) (shuffle
+             exam 4))))) (shuffle period exam)) (shuffle
+             (shuffle (swap 4 exam) exam) (swap (swap
+             exam 4) (swap period period)))) 4) (swap
+         period room)) (swap (swap (swap (swap (swap
+         (move 4 exam period) (shuffle exam (move
+         4 room room))) (shuffle (swap (swap (shuffle
+         period room) (move period room room)) (move
+         exam (move room room 4) (swap period room)))
+         (shuffle (shuffle (swap room 4) (shuffle
+             period (swap (move room 4 4) (shuffle room
+             room)))) (shuffle period exam)))) (shuffle
+         (swap (swap (swap period room) (shuffle 4
+             period)) (move exam 4 (move room period exam)))
+         (shuffle (swap 4 (shuffle period room)) (move
+             room exam 4)))) period) room)) (shuffle (shuffle
+         room exam) (swap period exam))) (swap period
+     period)) (move room room 4)) (move (shuffle
+     (shuffle exam period) room) (shuffle period
+     room) (move (move (shuffle (shuffle exam
+     (shuffle (shuffle period exam) (move 4 exam
+         room))) (swap (swap (shuffle (shuffle period
+     period) (move period room room)) room) (swap
+     exam room))) (move room period exam) (shuffle
+     (swap 4 exam) (shuffle 4 4))) exam (shuffle
+     (shuffle (move room period exam) (shuffle
+         exam 4)) (swap (move (swap room period) (shuffle
+     period 4) (shuffle period period)) period)))))
+
+Generation: 49
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=9855.0 Adjusted=1.0146103896103897E-4 Hits=0
+Tree 0:
+ (swap (move (shuffle period room) (shuffle
+     (swap (swap (move (shuffle exam room) (shuffle
+         (shuffle (move (move room period room) (shuffle
+             (shuffle (shuffle (swap 4 exam) exam) (shuffle
+                 room period)) (shuffle (shuffle room 4) (move
+             (shuffle (shuffle exam (shuffle (shuffle
+                 period exam) (move 4 exam room))) 4) (swap
+             period room) (swap (swap (shuffle period
+             (swap exam 4)) (shuffle period room)) (shuffle
+             exam 4))))) (shuffle period exam)) (shuffle
+             (shuffle (swap 4 exam) exam) (swap (swap
+             exam 4) (swap period period)))) 4) (swap
+         period room)) (swap (swap (swap (swap (swap
+         (move 4 exam period) (shuffle exam (move
+         4 room room))) (shuffle (swap (swap (shuffle
+         period room) (move period room room)) (move
+         exam (move room room 4) (swap period room)))
+         (shuffle (shuffle (swap room 4) (shuffle
+             period (swap (move room 4 4) (shuffle room
+             room)))) (shuffle period exam)))) (shuffle
+         (swap (swap (swap period room) (shuffle 4
+             period)) (move exam 4 (move room period exam)))
+         (shuffle (swap 4 (shuffle period room)) (move
+             room exam 4)))) period) room)) (shuffle (shuffle
+         room exam) (swap period exam))) (swap period
+     period)) (move room room 4)) (move (shuffle
+     (shuffle exam period) room) (shuffle period
+     room) (move (move (shuffle (shuffle exam
+     (shuffle (shuffle period exam) (move 4 exam
+         room))) (swap (swap (shuffle (shuffle period
+     period) (move period room room)) room) (swap
+     exam room))) (move room period exam) (shuffle
+     (swap 4 exam) (shuffle 4 4))) exam (shuffle
+     (shuffle (move room period exam) (shuffle
+         exam 4)) (swap (move (swap room period) (shuffle
+     period 4) (shuffle period period)) period)))))
+
+Generation: 50
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=9855.0 Adjusted=1.0146103896103897E-4 Hits=0
+Tree 0:
+ (swap (move (shuffle period room) (shuffle
+     (swap (swap (move (shuffle exam room) (shuffle
+         (shuffle (move (move room period room) (shuffle
+             (shuffle (shuffle (swap 4 exam) exam) (shuffle
+                 room period)) (shuffle (shuffle room 4) (move
+             (shuffle (shuffle exam (shuffle (shuffle
+                 period exam) (move 4 exam room))) 4) (swap
+             period room) (swap (swap (shuffle period
+             (swap exam 4)) (shuffle period room)) (shuffle
+             exam 4))))) (shuffle period exam)) (shuffle
+             (shuffle (swap 4 exam) exam) (swap (swap
+             exam 4) (swap period period)))) 4) (swap
+         period room)) (swap (swap (swap (swap (swap
+         (move 4 exam period) (shuffle exam (move
+         4 room room))) (shuffle (swap (swap (shuffle
+         period room) (move period room room)) (move
+         exam (move room room 4) (swap period room)))
+         (shuffle (shuffle (swap room 4) (shuffle
+             period (swap (move room 4 4) (shuffle room
+             room)))) (shuffle period exam)))) (shuffle
+         (swap (swap (swap period room) (shuffle 4
+             period)) (move exam 4 (move room period exam)))
+         (shuffle (swap 4 (shuffle period room)) (move
+             room exam 4)))) period) room)) (shuffle (shuffle
+         room exam) (swap period exam))) (swap period
+     period)) (move room room 4)) (move (shuffle
+     (shuffle exam period) room) (shuffle period
+     room) (move (move (shuffle (shuffle exam
+     (shuffle (shuffle period exam) (move 4 exam
+         room))) (swap (swap (shuffle (shuffle period
+     period) (move period room room)) room) (swap
+     exam room))) (move room period exam) (shuffle
+     (swap 4 exam) (shuffle 4 4))) exam (shuffle
+     (shuffle (move room period exam) (shuffle
+         exam 4)) (swap (move (swap room period) (shuffle
+     period 4) (shuffle period period)) period)))))
+
+Best Individual of Run:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=9558.0 Adjusted=1.046134532900931E-4 Hits=0
+Tree 0:
+ (swap (move (shuffle period exam) (swap period
+     (move (move (shuffle (shuffle (move (shuffle
+         exam (shuffle period room)) (swap (swap (move
+         (swap (move (shuffle (swap 4 (shuffle period
+             room)) (move room exam 4)) (swap (shuffle
+             period 4) (shuffle (shuffle 4 period) (shuffle
+             period period))) (shuffle exam 4)) exam)
+         (shuffle period room) (swap period period))
+         (shuffle (shuffle period 4) (shuffle period
+             period))) (shuffle (shuffle room room) (shuffle
+         (swap 4 (swap (shuffle period room) (swap
+             period room))) (swap 4 4)))) (shuffle period
+         4)) period) (swap (shuffle exam room) (swap
+         exam room))) (swap period room) (shuffle
+         (swap 4 exam) (shuffle 4 4))) (shuffle (swap
+         4 exam) (shuffle 4 4)) (shuffle exam room)))
+     (shuffle period 4)) 4)
+
+
+Best Individual's Timetable
+=====================
+Assigned Exams :12
+Timetable
+E6,6,2
+E7,0,2
+E8,5,2
+E9,5,2
+E12,6,2
+E13,0,2
+E14,7,2
+E15,6,2
+E16,4,4
+E16,4,4
+E16,4,4
+E16,4,4
+E16,4,4
+E16,4,4
+E16,4,4
+E16,4,4
+E16,4,4
+E16,4,4
+E18,6,2
+E19,0,2
+E20,7,2

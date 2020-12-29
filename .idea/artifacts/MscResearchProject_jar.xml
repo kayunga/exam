@@ -1,0 +1,20 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="MscResearchProject:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MscResearchProject_jar</output-path>
+    <root id="archive" name="MscResearchProject.jar">
+      <element id="module-output" name="MscResearchProject" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/KellyDS.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/log4j-1.2.8.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/CMT.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/ecj.25.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/commons-io-2.6/commons-io-2.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/commons-lang-2.6/commons-lang-2.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/google-guava.jar" path-in-jar="/" />
+      <element id="file-copy" path="D:/School/Msc/Msc Documents/Evo Hyp/DistrGenAlg.jar" />
+      <element id="file-copy" path="D:/School/Msc/Msc Documents/Evo Hyp/GenAlg.jar" />
+      <element id="file-copy" path="D:/School/Msc/Msc Documents/Evo Hyp/InitialSoln.jar" />
+      <element id="file-copy" path="D:/School/Msc/Msc Documents/Evo Hyp/ProblemDomain.jar" />
+      <element id="extracted-dir" path="D:/School/Msc/Msc Documents/Evo Hyp/ProblemDomain.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

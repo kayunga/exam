@@ -1,0 +1,72 @@
+
+Generation: 0
+Best Individual:
+Subpopulation 0:
+Evaluated: false
+Fitness: Standardized=0.0 Adjusted=1.0 Hits=0
+Tree 0:
+ (shuffle (swap (move (shuffle (shuffle room
+     period) (move room period period)) (move
+     (swap 2 room) (shuffle period 2) (shuffle
+     period room)) (swap (move period 2 exam)
+     (shuffle period 2))) (move (move (shuffle
+     2 exam) (swap exam exam) (move room exam
+     room)) (swap (move period period period)
+     (move period period exam)) (swap (move 2
+     period 2) (shuffle exam 2)))) (swap (swap
+     (move (move exam 2 room) (move room room
+         2) (move exam period room)) (move (shuffle
+     period 2) (swap 2 period) (swap exam period)))
+     (move (move (move period room exam) (swap
+         2 room) (move 2 room 2)) (swap (shuffle 2
+         2) (move room exam period)) (swap (move 2
+         period room) (move room period exam)))))
+
+Best Individual of Run:
+Subpopulation 0:
+Evaluated: false
+Fitness: Standardized=0.0 Adjusted=1.0 Hits=0
+Tree 0:
+ (shuffle (swap (move (shuffle (shuffle room
+     period) (move room period period)) (move
+     (swap 2 room) (shuffle period 2) (shuffle
+     period room)) (swap (move period 2 exam)
+     (shuffle period 2))) (move (move (shuffle
+     2 exam) (swap exam exam) (move room exam
+     room)) (swap (move period period period)
+     (move period period exam)) (swap (move 2
+     period 2) (shuffle exam 2)))) (swap (swap
+     (move (move exam 2 room) (move room room
+         2) (move exam period room)) (move (shuffle
+     period 2) (swap 2 period) (swap exam period)))
+     (move (move (move period room exam) (swap
+         2 room) (move 2 room 2)) (swap (shuffle 2
+         2) (move room exam period)) (swap (move 2
+         period room) (move room period exam)))))
+
+
+Best Individual's Timetable
+=====================
+Assigned Exams :21
+Timetable
+E0,2,0
+E1,4,2
+E2,3,4
+E3,5,2
+E4,5,4
+E5,4,2
+E6,5,2
+E7,4,2
+E8,6,2
+E9,4,2
+E10,5,4
+E11,3,2
+E12,4,2
+E13,4,2
+E14,1,2
+E15,2,2
+E16,3,2
+E17,5,2
+E18,5,2
+E19,6,2
+E20,5,2

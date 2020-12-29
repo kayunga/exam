@@ -1,0 +1,754 @@
+
+Generation: 0
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=9145.135012020097 Adjusted=1.093358012631317E-4 Hits=0
+Tree 0:
+ route
+
+Generation: 1
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=9145.135012020097 Adjusted=1.093358012631317E-4 Hits=0
+Tree 0:
+ (swap (shuffle (swap (shuffle 3 route) (swap
+     3 customer)) (shuffle (shuffle 3 route) (swap
+     route route))) (swap (swap (move customer
+     customer customer) (swap route route)) (move
+     (shuffle 3 customer) (shuffle route customer)
+     (shuffle 3 3))))
+
+Generation: 2
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=9145.135012020097 Adjusted=1.093358012631317E-4 Hits=0
+Tree 0:
+ (move (shuffle (swap customer route) (swap
+     route route)) (shuffle customer route) (move
+     (swap route customer) route 3))
+
+Generation: 3
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=9145.135012020097 Adjusted=1.093358012631317E-4 Hits=0
+Tree 0:
+ (move (move (swap customer customer) (swap
+     route route) (shuffle (shuffle 3 3) route))
+     (swap (move 3 3 customer) (swap 3 customer))
+     (move (shuffle 3 route) (move customer 3
+         route) (swap 3 3)))
+
+Generation: 4
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=9145.135012020097 Adjusted=1.093358012631317E-4 Hits=0
+Tree 0:
+ (swap (swap (swap (shuffle route 3) route)
+     (shuffle route (shuffle customer route)))
+     (move (swap (move route customer route) (swap
+         route customer)) (move (move 3 route customer)
+         (move customer customer customer) (shuffle
+         customer route)) (swap (swap customer 3)
+         (shuffle route customer))))
+
+Generation: 5
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=9145.135012020097 Adjusted=1.093358012631317E-4 Hits=0
+Tree 0:
+ (move route (swap (shuffle (move customer
+     customer customer) customer) 3) (swap (swap
+     3 customer) (swap 3 customer)))
+
+Generation: 6
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=9145.135012020097 Adjusted=1.093358012631317E-4 Hits=0
+Tree 0:
+ (move customer (shuffle (swap (swap (move
+     3 customer 3) (shuffle (shuffle customer
+     route) (shuffle customer 3))) (swap (swap
+     3 customer) (move route customer route)))
+     (shuffle route route)) (shuffle 3 customer))
+
+Generation: 7
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=9145.135012020097 Adjusted=1.093358012631317E-4 Hits=0
+Tree 0:
+ (move (shuffle (shuffle (swap customer 3)
+     (shuffle customer customer)) (swap (shuffle
+     route customer) (move (shuffle route customer)
+     (shuffle (shuffle route customer) (move route
+         route route)) (move customer 3 3)))) (move
+     (shuffle (move route customer 3) (move 3
+         3 route)) (shuffle (swap route customer)
+     (swap 3 customer)) (move (swap route customer)
+     (move customer customer 3) (swap route customer)))
+     (swap (move (swap route route) customer route)
+         (shuffle (move customer 3 route) (swap 3
+             route))))
+
+Generation: 8
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=9145.135012020097 Adjusted=1.093358012631317E-4 Hits=0
+Tree 0:
+ (move 3 route customer)
+
+Generation: 9
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=9145.135012020097 Adjusted=1.093358012631317E-4 Hits=0
+Tree 0:
+ (shuffle (swap route 3) (shuffle customer
+     (move (move (move route route route) (move
+         customer 3 3) (shuffle (swap route customer)
+         3)) (swap route customer) (move route customer
+         3))))
+
+Generation: 10
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=9145.135012020097 Adjusted=1.093358012631317E-4 Hits=0
+Tree 0:
+ (swap (swap (swap (move (shuffle route route)
+     (shuffle route customer) (shuffle 3 3)) (shuffle
+     (shuffle route route) (shuffle 3 route)))
+     (shuffle (shuffle (swap customer route) (swap
+         (move customer 3 customer) (shuffle 3 customer)))
+         (shuffle (move 3 customer customer) (shuffle
+             customer customer)))) (move (shuffle (move
+     (shuffle 3 (move (move 3 route route) (move
+         3 route 3) (shuffle route 3))) (move customer
+     route 3) (swap customer customer)) (shuffle
+     (swap customer route) (swap route 3))) (swap
+     (shuffle (move (move route route 3) (move
+         route 3 route) (move customer customer 3))
+         (shuffle (swap (shuffle route route) (move
+             (move route 3 3) 3 customer)) (shuffle route
+             (move customer route 3)))) (move (shuffle
+     customer 3) (move 3 3 3) (shuffle route customer)))
+     (shuffle (shuffle (move route route route)
+         (move 3 route 3)) (move (swap (shuffle (swap
+         3 3) (swap (shuffle customer route) customer))
+         customer) (swap 3 customer) (swap customer
+         3)))))
+
+Generation: 11
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=9145.135012020097 Adjusted=1.093358012631317E-4 Hits=0
+Tree 0:
+ (move (move (move (shuffle customer route)
+     (move customer 3 3) (shuffle (swap route
+     route) (shuffle (shuffle (move route customer
+     route) (swap (swap route customer) (move
+     3 route route))) customer))) 3 customer)
+     (shuffle route 3) (swap route 3))
+
+Generation: 12
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=9145.135012020097 Adjusted=1.093358012631317E-4 Hits=0
+Tree 0:
+ (swap (move (shuffle route customer) (move
+     3 customer 3) (swap 3 customer)) (shuffle
+     (swap (shuffle (move (swap route customer)
+         (move 3 (shuffle (move customer route route)
+             (move route route route)) route) (shuffle
+         3 route)) (swap (shuffle route route) (swap
+         3 customer))) (shuffle (shuffle (move route
+         3 route) (move 3 3 3)) (swap (move customer
+         customer route) (swap 3 customer)))) (move
+     (shuffle (swap (swap 3 customer) (swap 3
+         3)) (swap (shuffle customer route) (swap
+         customer route))) (swap (move (swap route
+     3) (move route route 3) (swap (shuffle (swap
+     (shuffle customer route) (move customer (shuffle
+     3 customer) 3)) (swap (move customer customer
+     route) (swap 3 customer))) (move (swap (shuffle
+     (shuffle (swap (move 3 route 3) (swap 3 customer))
+         (move (swap 3 customer) (shuffle 3 route)
+             (move 3 3 route))) (move (move (swap 3 customer)
+     (swap 3 3) (shuffle customer customer)) (move
+     (shuffle 3 route) (swap customer 3) (shuffle
+     3 customer)) (swap (shuffle route 3) (move
+     3 3 route)))) (shuffle customer customer))
+     (shuffle (swap route route) (shuffle (shuffle
+         customer 3) (move customer 3 route))) (move
+     (move customer 3 route) (swap 3 customer)
+     (swap 3 3))))) (swap (move 3 3 3) (move customer
+     customer 3))) (shuffle (move customer route
+     (shuffle route customer)) (swap (swap route
+     3) (swap 3 route))))))
+
+Generation: 13
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=9145.135012020097 Adjusted=1.093358012631317E-4 Hits=0
+Tree 0:
+ (swap (move (shuffle (swap 3 3) (move 3 route
+     route)) (move (move customer customer route)
+     (shuffle 3 (shuffle (swap customer customer)
+         (shuffle customer 3))) (move 3 route (shuffle
+     route 3))) (swap (move route customer route)
+     (swap 3 route))) (shuffle (shuffle (move
+     customer customer customer) (shuffle 3 customer))
+     (shuffle (move customer 3 customer) (swap
+         (swap 3 customer) (swap (move 3 customer
+         3) (swap route route))))))
+
+Generation: 14
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=9145.135012020097 Adjusted=1.093358012631317E-4 Hits=0
+Tree 0:
+ (move (move route customer route) 3 3)
+
+Generation: 15
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=9145.135012020097 Adjusted=1.093358012631317E-4 Hits=0
+Tree 0:
+ (shuffle (shuffle (shuffle 3 (swap (move
+     (move customer 3 3) (swap route 3) (shuffle
+     route 3)) (move 3 customer 3))) (shuffle
+     (shuffle (move customer route (shuffle route
+         route)) (move route route 3)) (shuffle (swap
+     customer 3) (swap 3 3)))) (shuffle (swap
+     3 route) (swap (move 3 3 customer) (swap
+     (swap 3 customer) (swap route route)))))
+
+Generation: 16
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=9145.135012020097 Adjusted=1.093358012631317E-4 Hits=0
+Tree 0:
+ (move (move (shuffle (swap (shuffle route
+     3) (swap route 3)) 3) (shuffle customer customer)
+     (move (move 3 customer customer) (swap 3
+         route) (swap 3 3))) (swap (move (shuffle
+     route route) (move route route route) (shuffle
+     route route)) (move (shuffle 3 customer)
+     route (shuffle route 3))) (move customer
+     route 3))
+
+Generation: 17
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=9145.135012020097 Adjusted=1.093358012631317E-4 Hits=0
+Tree 0:
+ (move (swap route 3) route (shuffle route
+     customer))
+
+Generation: 18
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=9145.135012020097 Adjusted=1.093358012631317E-4 Hits=0
+Tree 0:
+ (shuffle 3 customer)
+
+Generation: 19
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=9145.135012020097 Adjusted=1.093358012631317E-4 Hits=0
+Tree 0:
+ (shuffle (shuffle 3 (move customer (swap
+     3 customer) (shuffle (move (move (move 3
+     route customer) (swap 3 3) (swap (move 3
+     3 customer) 3)) (shuffle (shuffle customer
+     3) (move customer customer 3)) (swap (move
+     customer customer route) 3)) (swap customer
+     route)))) (shuffle customer customer))
+
+Generation: 20
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=9145.135012020097 Adjusted=1.093358012631317E-4 Hits=0
+Tree 0:
+ route
+
+Generation: 21
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=9145.135012020097 Adjusted=1.093358012631317E-4 Hits=0
+Tree 0:
+ (move (swap route route) (swap (swap customer
+     (move 3 route (move route customer route)))
+     (swap 3 customer)) (swap customer (move route
+     route route)))
+
+Generation: 22
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=9145.135012020097 Adjusted=1.093358012631317E-4 Hits=0
+Tree 0:
+ (swap (move customer 3 3) (move (move 3 route
+     route) (swap (shuffle route customer) (swap
+     3 route)) (move customer customer (shuffle
+     3 (swap (move route customer (move (swap
+     (swap route route) (swap route 3)) (move
+     (move customer 3 route) (move (move (swap
+     customer (move (swap customer customer) (shuffle
+     route 3) (shuffle (shuffle route customer)
+     customer))) (move (move route 3 3) (move
+     customer 3 (swap 3 customer)) (swap customer
+     3)) (move (swap 3 customer) (shuffle customer
+     (move (move route 3 route) (swap 3 route)
+         (move customer 3 route))) (shuffle customer
+     3))) (swap route 3) (shuffle (swap route
+     3) (swap 3 3))) (shuffle customer route))
+     (shuffle (shuffle customer (swap (shuffle
+         customer route) (shuffle route customer)))
+         (move 3 route customer)))) (move route customer
+     (shuffle customer route)))))))
+
+Generation: 23
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=9145.135012020097 Adjusted=1.093358012631317E-4 Hits=0
+Tree 0:
+ (shuffle (move (shuffle route route) (move
+     3 (move (move customer 3 3) (swap customer
+     route) (move 3 route (shuffle route 3)))
+     (swap (swap customer customer) (shuffle 3
+         3))) customer) (swap (shuffle (shuffle (move
+     (swap (move 3 route 3) (shuffle 3 customer))
+     (shuffle customer 3) (shuffle 3 customer))
+     (move (shuffle 3 3) (shuffle customer route)
+         (move 3 customer route))) (swap (shuffle
+     (shuffle route route) (swap (shuffle customer
+     route) customer)) (swap customer (swap 3
+     3)))) (move (move route route route) (shuffle
+     customer route) (shuffle (swap route customer)
+     3))))
+
+Generation: 24
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=9145.135012020097 Adjusted=1.093358012631317E-4 Hits=0
+Tree 0:
+ (swap route route)
+
+Generation: 25
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=9145.135012020097 Adjusted=1.093358012631317E-4 Hits=0
+Tree 0:
+ (move route customer customer)
+
+Generation: 26
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=9145.135012020097 Adjusted=1.093358012631317E-4 Hits=0
+Tree 0:
+ (swap (shuffle customer route) (swap 3 (move
+     customer customer route)))
+
+Generation: 27
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=9145.135012020097 Adjusted=1.093358012631317E-4 Hits=0
+Tree 0:
+ (move (shuffle (shuffle (swap route route)
+     (shuffle (swap route customer) (shuffle (move
+         route customer (swap (shuffle route route)
+         3)) (swap customer route)))) customer) (move
+     (swap (swap (swap route (shuffle customer
+         customer)) (shuffle route route)) (move (shuffle
+         route (shuffle route customer)) customer
+         customer)) (shuffle customer customer) (move
+     (swap route 3) route 3)) (move (move (move
+     customer 3 customer) (shuffle customer route)
+     3) (shuffle 3 customer) (swap (swap (shuffle
+     (swap (shuffle route 3) (swap route 3)) 3)
+     (shuffle customer customer)) (shuffle (swap
+     route customer) (swap 3 (swap route customer))))))
+
+Generation: 28
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=9145.135012020097 Adjusted=1.093358012631317E-4 Hits=0
+Tree 0:
+ (move route (move (swap 3 route) (move (shuffle
+     3 route) route customer) customer) (swap
+     (swap (shuffle (shuffle 3 customer) route)
+         route) (swap route 3)))
+
+Generation: 29
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=9145.135012020097 Adjusted=1.093358012631317E-4 Hits=0
+Tree 0:
+ (move (move 3 route customer) (swap (move
+     customer customer route) (shuffle (swap customer
+     route) (swap (shuffle 3 (move (swap route
+     3) (swap route route) (move customer route
+     route))) (swap route customer)))) (shuffle
+     customer 3))
+
+Generation: 30
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=9145.135012020097 Adjusted=1.093358012631317E-4 Hits=0
+Tree 0:
+ (swap (shuffle (move route customer customer)
+     (swap customer customer)) (swap customer
+     route))
+
+Generation: 31
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=9145.135012020097 Adjusted=1.093358012631317E-4 Hits=0
+Tree 0:
+ (move (move (move (swap 3 (move (swap (shuffle
+     route (move route 3 3)) (swap (swap (swap
+     (move 3 route customer) (swap route route))
+     (shuffle customer 3)) (swap 3 (swap 3 route))))
+     route route)) route customer) (swap 3 3)
+     (shuffle customer 3)) (shuffle (move (move
+     customer customer customer) route route)
+     3) (shuffle route (swap (swap (swap (shuffle
+     (shuffle (swap customer customer) customer)
+     (swap route customer)) route) (swap route
+     3)) route)))
+
+Generation: 32
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=9145.135012020097 Adjusted=1.093358012631317E-4 Hits=0
+Tree 0:
+ (shuffle 3 (shuffle 3 customer))
+
+Generation: 33
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=9145.135012020097 Adjusted=1.093358012631317E-4 Hits=0
+Tree 0:
+ (shuffle (swap (move (swap 3 3) (swap route
+     (swap (shuffle (shuffle (swap (move (move
+         route customer customer) (swap customer route)
+         (move 3 route 3)) (swap customer 3)) (swap
+         route route)) route) (shuffle (shuffle customer
+         route) (move (swap (swap (shuffle customer
+         3) (move customer customer 3)) (shuffle route
+         customer)) customer 3)))) (shuffle customer
+     customer)) (move 3 (swap route customer)
+     3)) (shuffle (move (shuffle (move route 3
+     3) customer) (shuffle (shuffle route customer)
+     (move route route customer)) (move (swap
+     (swap route 3) route) (move (move (shuffle
+     customer route) (shuffle customer customer)
+     3) (shuffle (move 3 3 customer) (move route
+     (shuffle route (move route customer 3)) customer))
+     (move (shuffle (shuffle 3 customer) (shuffle
+         customer (swap 3 route))) (swap 3 route)
+         3)) (shuffle route customer))) (swap 3 (move
+     (swap (shuffle route (move route 3 3)) (swap
+         (swap (swap (move 3 route customer) (swap
+             route route)) (shuffle customer 3)) (swap
+         route 3))) route route))))
+
+Generation: 34
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=9145.135012020097 Adjusted=1.093358012631317E-4 Hits=0
+Tree 0:
+ (shuffle (move (shuffle route 3) 3 (swap
+     (move customer 3 3) (swap (swap (move customer
+     route customer) 3) 3))) route)
+
+Generation: 35
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=9145.135012020097 Adjusted=1.093358012631317E-4 Hits=0
+Tree 0:
+ (swap (move (swap (swap 3 3) (move 3 3 3))
+     (swap 3 (move (shuffle customer route) (move
+         (shuffle customer 3) customer 3) (shuffle
+         route customer))) 3) (shuffle (swap (shuffle
+     (move (swap route customer) (move 3 (move
+         route customer 3) route) (shuffle 3 route))
+     (swap (shuffle route route) (swap 3 customer)))
+     (shuffle 3 (shuffle (move customer route
+         route) (shuffle (swap (move route customer
+         route) (move (shuffle 3 route) (move (move
+         customer 3 3) (shuffle (shuffle customer
+         route) (swap (swap (move customer (shuffle
+         (shuffle 3 3) (swap route customer)) (swap
+         route route)) (swap customer 3)) (move 3
+         customer route))) (swap customer customer))
+         (swap customer (shuffle route customer))))
+         (swap (swap (swap route route) (move (move
+             (swap customer customer) (shuffle 3 3) (shuffle
+             (shuffle (move route 3 3) (shuffle (swap
+                 (swap (move route customer customer) 3) customer)
+                 (shuffle route customer))) customer)) route
+             (shuffle customer customer))) 3))))) (move
+     (shuffle (swap (shuffle 3 customer) (shuffle
+         route (move route (move route (move (move
+         route customer customer) (swap (swap route
+         3) 3) (shuffle customer customer)) route)
+         route))) (shuffle customer customer)) (swap
+     (move (swap route 3) (move route route 3)
+         (swap (shuffle (swap (shuffle customer route)
+             (move customer (shuffle 3 customer) 3)) (swap
+             (move customer customer route) (swap 3 customer)))
+             (move (swap (shuffle (shuffle (shuffle (move
+                 3 (swap (swap route customer) (swap customer
+                 route)) customer) (move customer 3 3)) (move
+                 route customer customer)) (move route 3 3))
+                 (shuffle customer customer)) (shuffle (swap
+                 route route) (shuffle (swap customer route)
+                 (move customer 3 route))) (move (move customer
+                 3 route) (swap 3 customer) customer)))) (swap
+     (move 3 3 3) (move customer customer 3)))
+     (shuffle (move customer route (shuffle route
+         customer)) (swap (swap route 3) (swap 3 route))))))
+
+Generation: 36
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=9145.135012020097 Adjusted=1.093358012631317E-4 Hits=0
+Tree 0:
+ (swap 3 customer)
+
+Generation: 37
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=9145.135012020097 Adjusted=1.093358012631317E-4 Hits=0
+Tree 0:
+ (move 3 (shuffle (swap (move customer customer
+     customer) (move customer (shuffle (shuffle
+     customer 3) route) customer)) (swap 3 (swap
+     customer customer))) (shuffle (shuffle customer
+     route) 3))
+
+Generation: 38
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=9145.135012020097 Adjusted=1.093358012631317E-4 Hits=0
+Tree 0:
+ (shuffle (swap (move route (shuffle (shuffle
+     (move 3 route customer) 3) (shuffle (shuffle
+     (shuffle (move route 3 3) route) customer)
+     3)) (shuffle route 3)) (move route customer
+     customer)) (shuffle customer customer))
+
+Generation: 39
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=9145.135012020097 Adjusted=1.093358012631317E-4 Hits=0
+Tree 0:
+ (swap (move (shuffle route customer) (move
+     3 customer 3) (swap 3 customer)) (shuffle
+     (swap (shuffle route (shuffle 3 customer))
+         (shuffle (shuffle route customer) 3)) (move
+     customer (swap (move (swap route 3) (move
+     route route 3) (swap (shuffle (swap (shuffle
+     customer route) (swap 3 (swap 3 3))) (swap
+     (move customer customer route) (shuffle (shuffle
+     3 3) (swap route customer)))) (move (shuffle
+     customer route) (shuffle (shuffle route (move
+     (move route 3 3) (shuffle customer 3) (move
+     3 customer route))) customer) (swap (swap
+     3 (shuffle customer 3)) (swap (shuffle customer
+     3) route))))) (swap (move 3 3 3) (move customer
+     customer 3))) (shuffle (move customer route
+     (shuffle route customer)) (shuffle customer
+     3)))))
+
+Generation: 40
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=9145.135012020097 Adjusted=1.093358012631317E-4 Hits=0
+Tree 0:
+ (swap route (shuffle 3 route))
+
+Generation: 41
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=9145.135012020097 Adjusted=1.093358012631317E-4 Hits=0
+Tree 0:
+ (shuffle (swap route customer) (move (swap
+     route 3) customer 3))
+
+Generation: 42
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=9145.135012020097 Adjusted=1.093358012631317E-4 Hits=0
+Tree 0:
+ (swap (move (swap (swap 3 3) (move 3 3 3))
+     (move 3 customer 3) 3) (shuffle (swap (shuffle
+     (move (swap route customer) (move 3 route
+         route) (shuffle 3 route)) (swap (shuffle
+     route route) (swap 3 customer))) (shuffle
+     3 (shuffle (swap (swap 3 3) (swap (swap route
+     3) (shuffle customer customer))) (shuffle
+     (swap (move route customer route) (move (shuffle
+         3 route) (move (move customer 3 3) (shuffle
+         (shuffle customer route) (swap (swap (move
+         customer (move 3 customer 3) (swap route
+         route)) (swap customer 3)) (move 3 customer
+         route))) (swap (swap route (move route (shuffle
+         (swap (swap 3 route) route) (move 3 route
+         customer)) (swap customer customer))) route))
+         (shuffle (shuffle (shuffle 3 (swap route
+             route)) 3) customer))) (swap (swap (swap
+     route route) (move (move (swap customer customer)
+     (shuffle 3 3) (shuffle (shuffle (move route
+     3 3) (shuffle (swap (swap (move route customer
+     customer) 3) customer) (shuffle (shuffle
+     customer route) customer))) customer)) route
+     (shuffle customer customer))) 3))))) (move
+     (shuffle (swap (shuffle 3 customer) (shuffle
+         route (move route customer route))) (shuffle
+         customer customer)) (swap (move (swap route
+     3) (move route route 3) (swap (swap route
+     3) (move (swap (shuffle (shuffle (shuffle
+     (move 3 (swap (swap route customer) (swap
+         customer route)) customer) (move customer
+     3 3)) (move route customer customer)) (move
+     route 3 3)) (shuffle customer customer))
+     (shuffle (swap route route) (shuffle (swap
+         customer route) (move customer 3 route)))
+     (move (move customer 3 route) (swap 3 customer)
+         customer)))) (swap (move 3 3 3) (move customer
+     customer 3))) (shuffle (move customer route
+     (shuffle route customer)) (swap (swap route
+     3) (swap 3 route))))))
+
+Generation: 43
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=9145.135012020097 Adjusted=1.093358012631317E-4 Hits=0
+Tree 0:
+ (move 3 (shuffle (shuffle 3 (shuffle route
+     3)) (move 3 customer route)) 3)
+
+Generation: 44
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=9145.135012020097 Adjusted=1.093358012631317E-4 Hits=0
+Tree 0:
+ (move 3 (shuffle route customer) route)
+
+Generation: 45
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=9145.135012020097 Adjusted=1.093358012631317E-4 Hits=0
+Tree 0:
+ (swap route (shuffle route (move (move (move
+     3 route (swap (shuffle customer (move customer
+     customer route)) customer)) (move (swap (swap
+     customer 3) (shuffle (swap route route) 3))
+     (move customer customer 3) customer) (shuffle
+     (swap 3 customer) (swap customer 3))) (swap
+     (shuffle route customer) route) route)))
+
+Generation: 46
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=9145.135012020097 Adjusted=1.093358012631317E-4 Hits=0
+Tree 0:
+ (shuffle (move (move (shuffle 3 route) (swap
+     3 3) (swap (shuffle (shuffle 3 route) (shuffle
+     route 3)) 3)) (shuffle route route) (swap
+     3 (move customer customer customer))) customer)
+
+Generation: 47
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=9145.135012020097 Adjusted=1.093358012631317E-4 Hits=0
+Tree 0:
+ (swap (shuffle (move (swap route customer)
+     (move 3 (move route customer 3) route) 3)
+     (swap (shuffle route route) (swap 3 customer)))
+     3)
+
+Generation: 48
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=9145.135012020097 Adjusted=1.093358012631317E-4 Hits=0
+Tree 0:
+ (move (move route route 3) (move (swap (shuffle
+     customer 3) 3) 3 customer) (move (move (swap
+     customer customer) (swap (move customer customer
+     route) (shuffle (shuffle 3 3) (swap route
+     customer))) (swap customer route)) 3 3))
+
+Generation: 49
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=9145.135012020097 Adjusted=1.093358012631317E-4 Hits=0
+Tree 0:
+ (move (swap (move 3 3 route) route) (move
+     3 3 route) (swap (shuffle route 3) (shuffle
+     customer (swap 3 3))))
+
+Generation: 50
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=9145.135012020097 Adjusted=1.093358012631317E-4 Hits=0
+Tree 0:
+ (swap customer (move (move route customer
+     customer) 3 (shuffle 3 route)))
+
+Best Individual of Run:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=9145.135012020097 Adjusted=1.093358012631317E-4 Hits=0
+Tree 0:
+ route

@@ -1,0 +1,72 @@
+/*
+  Copyright 2006 by Sean Luke
+  Licensed under the Academic Free License version 3.0
+  See the file "LICENSE" for more information
+*/
+
+
+package GE_HH.examTimetablingProblem.ecjFunctions;
+
+import GE_HH.examTimetablingProblem.ProblemDomain.TimetableData;
+import GE_HH.examTimetablingProblem.ProblemDomain.TimetableData1;
+import GE_HH.examTimetablingProblem.ProblemDomain.TimetableProblem;
+import ec.EvolutionState;
+import ec.Problem;
+import ec.gp.ADFStack;
+import ec.gp.GPData;
+import ec.gp.GPIndividual;
+import ec.gp.GPNode;
+
+import java.util.Random;
+
+/* 
+ * Move.java
+ * 
+
+ */
+
+/**
+ * @author George Mweshi
+
+ */
+
+public class Ephemeral extends GPNode
+    {
+       TimetableData rd = new TimetableData();
+
+        public Ephemeral()
+        {
+            Random rn = new Random();
+            int min=0;
+            int max=5;
+
+           int num = rn.nextInt(max - min + 1) + min;
+           rd.x=Integer.toString(num);
+
+        }
+
+        public String toString() {
+            return rd != null ?
+                String.valueOf(rd.x) : "n";
+        }
+
+        public int expectedChildren() { return 0; }
+
+        @Override
+        public void eval(final EvolutionState state,
+                         final int thread,
+                         final GPData input,
+                         final ADFStack stack,
+                         final GPIndividual individual,
+                         final Problem problem) {
+            ((TimetableData)(input)).x = rd.x;
+        }
+
+
+        }
+
+
+
+
+
+

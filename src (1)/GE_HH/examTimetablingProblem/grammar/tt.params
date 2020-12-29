@@ -1,0 +1,51 @@
+# Copyright 2006 by Sean Luke and George Mason University
+# Licensed under the Academic Free License version 3.0
+# See the file "LICENSE" for more information
+
+parent.0 = koza.params
+
+# Stolen from koza/params -- overwriting just
+# a little for readability
+# You need to create at least one function set, 
+# called "f0", which your first tree will use.  
+
+gp.fs.size = 1
+gp.fs.0.name = f0
+gp.fs.0.size =7
+
+### The functions, carefully ordered :-)  (See below)
+
+gp.fs.0.func.0 = GE_HH.examTimetablingProblem.ecjFunctions.Exam
+gp.fs.0.func.0.nc = nc0
+gp.fs.0.func.1 = GE_HH.examTimetablingProblem.ecjFunctions.Move
+gp.fs.0.func.1.nc = nc3
+gp.fs.0.func.2 = GE_HH.examTimetablingProblem.ecjFunctions.Period
+gp.fs.0.func.2.nc = nc0
+gp.fs.0.func.3 = GE_HH.examTimetablingProblem.ecjFunctions.Room
+gp.fs.0.func.3.nc = nc0
+gp.fs.0.func.4 = GE_HH.examTimetablingProblem.ecjFunctions.Shuffle
+gp.fs.0.func.4.nc = nc2
+gp.fs.0.func.5 = GE_HH.examTimetablingProblem.ecjFunctions.Swap
+gp.fs.0.func.5.nc = nc2
+gp.fs.0.func.6 = GE_HH.examTimetablingProblem.ecjFunctions.Ephemeral
+gp.fs.0.func.6.nc = nc0
+
+
+
+
+#
+# We specify our problem here
+#
+
+
+eval.problem = GE_HH.examTimetablingProblem.ProblemDomain.TimetableProblem
+eval.problem.tt-filename = exam_comp_set4.exam
+# Because our GPData is completely empty, we can just use
+# GPData directly
+eval.problem.data = GE_HH.examTimetablingProblem.ProblemDomain.TimetableData
+
+eval.problem.file = geOutput.trl
+
+# output statistics to the file "out.stat" in the directory
+# the run was started in
+stat.file  $out.stat
